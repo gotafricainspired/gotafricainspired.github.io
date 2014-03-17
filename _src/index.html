@@ -1,0 +1,66 @@
+---
+layout: default
+title: Home
+eventpromo: true
+video_id: qsJYrwzfd6w
+video_teasing: "Juliana Rotich at TED: About Ushahidi and the BRCK network solution they developed in Kenya."
+---
+
+<div class="site-content" id="gai-hero-unit" style="padding-top: 4em" >
+    <div class="container" >
+        <article class="entry" id="highlight" >
+        
+                {% include video.html %}
+                
+                <p class="entry-title" >
+                    {{ page.video_teasing }}
+                </p>
+
+        </article>
+    </div>
+</div>
+
+<!--
+<div class="site-content" id="gai-hero-unit" style="padding-top: 4em" >
+    <div class="container" >
+        <article class="entry" id="highlight" >
+        
+      {% for post in site.posts %}
+        {% if post.video_id %}
+          {% if post.featured == true %}
+
+                {% include video.html %}
+                
+                <p class="entry-title" >
+                  {% if post.video_teasing %}
+                    {{ post.video_teasing }}
+                  {% else %}
+                    {{ post.excerpt }}
+                  {% endif %}
+                </p>
+
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+        </article>
+    </div>
+</div>
+-->
+
+<div class="site-content" >
+    <div class="container" >
+      {% for post in site.posts %}
+         
+         {% if post.show_on_home %}
+            {% include post_summary.html %}
+         {% endif %}
+         
+      {% endfor %}
+      
+            <a href="/archives.html" >
+               All posts
+            </a>
+          
+    </div>
+</div>
