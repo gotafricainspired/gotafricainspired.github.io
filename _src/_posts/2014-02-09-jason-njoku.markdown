@@ -2,7 +2,7 @@
 layout: post
 title:  "How I got to know more about Jason Njoku, and truely got inspired"
 date:   2014-02-09
-tags: [Entrepreneurship, Internet, Iroko Partners]
+tags: [Entrepreneurship, Internet, Iroko Partners, TED]
 countries: [Nigeria]
 video_id: F8WmQIFpjqc
 ---

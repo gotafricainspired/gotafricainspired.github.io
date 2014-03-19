@@ -2,7 +2,7 @@
 layout: post
 title:  "Kpako, by Ice Prince ft. M.I & Jesse Jagz"
 date:   2014-02-05
-tags: [Hip Hop, Ice Prince Zamani, Jesse Jagz, M.I.]
+tags: [Music, Hip Hop, Ice Prince Zamani, Jesse Jagz, M.I.]
 countries: [Nigeria]
 audio_id: 117738941
 ---

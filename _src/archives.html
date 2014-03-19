@@ -10,7 +10,10 @@ eventpromo: false
       <ul>
       {% for post in site.posts %}
          <li style="text-align: left" >
-             <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">
+               {% if post.tags contains 'Music' %}MUSIC:{% endif %}
+               {{ post.title }}
+            </a>
          </li>
       {% endfor %}
       </ul>

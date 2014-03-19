@@ -25,16 +25,8 @@ layout: default
                 {% include audio.html %}
               {% endif %}
               
-              <ul class="entry-details" >
-                <li class="entry-date fa fa-calendar" > 
-                  {{ page.date | date_to_string }}
-                </li>
-                <li class="entry-tags fa fa-tags" > 
-                  {% for tag in page.tags %}
-                    {{ tag }}{% unless forloop.last %},{% endunless %}
-                  {% endfor %}
-                </li>
-              </ul>
+              {% assign post = page %}
+              {% include tags.html %}
 
             </article>
             
