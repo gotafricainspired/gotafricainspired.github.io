@@ -5,6 +5,7 @@ date:   2014-02-12
 tags: [Hip Hop, Ice Prince Zamani, Soundcity TV]
 countries: [Nigeria]
 video_id: RsV-pESKHEE
+contributor: kamon
 show_on_home: true
 ---
 

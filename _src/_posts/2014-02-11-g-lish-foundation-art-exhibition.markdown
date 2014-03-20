@@ -4,6 +4,7 @@ title:  "Women celebrate overcoming poverty through an art project in Ghana"
 date:   2014-02-11
 tags: [Social enterprise, Internet, G-lish]
 countries: [Ghana]
+contributor: kamon
 ---
 
 [G-lish Foundation](http://g-lishfoundation.myshopify.com) announces the "Finfinhi: Little by Little" exhibition, 

@@ -5,6 +5,7 @@ date:   2014-02-09
 tags: [Entrepreneurship, Internet, Iroko Partners, TED]
 countries: [Nigeria]
 video_id: F8WmQIFpjqc
+contributor: kamon
 ---
 
 Jason Njoku is a Nigerian Internet entrepreneur, and is CEO and founder of Iroko Partners, the creators of IrokoTV.com.

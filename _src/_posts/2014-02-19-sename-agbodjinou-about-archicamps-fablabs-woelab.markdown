@@ -5,6 +5,7 @@ date:   2014-02-19
 tags: [Tech democracy, Hacking, Fablab, Archicamps, Smart city, Lift]
 countries: [Togo]
 video_id: 3noZfHvwGTs
+contributor: kamon
 show_on_home: true
 ---
 

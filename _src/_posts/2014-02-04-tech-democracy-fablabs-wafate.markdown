@@ -5,6 +5,7 @@ date:   2014-02-04
 tags: [Tech democracy, Hacking, Fablab]
 countries: [Togo]
 video_id: -ngFLs2RV1I
+contributor: kamon
 ---
 
 A presentation of [W.Afate](http://www.woelabo.com/wafate.html), the first 3D printer created 
