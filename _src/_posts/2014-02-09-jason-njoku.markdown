@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "How I got to know more about Jason Njoku, and truely got inspired"
+title:  "Jason Njoku: Failing all the way to Success"
 date:   2014-02-09
-tags: [Entrepreneurship, Internet, Iroko Partners, TED]
+tags: [Entrepreneurship, Internet, Iroko Partners, TED, Talk]
 countries: [Nigeria]
 video_id: F8WmQIFpjqc
 contributor: kamon
+recommended: true
 ---
 
 Jason Njoku is a Nigerian Internet entrepreneur, and is CEO and founder of Iroko Partners, the creators of IrokoTV.com.
@@ -14,7 +15,7 @@ that are part of the entrepreneur's journey.
 
 He keeps repeating something that resonates in me: <em>The importance of embracing failure</em>. <br>
 Fear not! Just get going!
-
+And let's keep learning from the likes of Jason Njoku, inspirations for the new generation of african entrepreneurs.
 
                 
                 

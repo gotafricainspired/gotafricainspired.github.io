@@ -8,6 +8,7 @@ video_id: 55mF8sJ2pW4
 video_teasing: "Sona Jobarteh performing at the 2012 Africa Festival in Würzburg."
 show_on_home: true
 contributor: kamon
+recommended: true
 ---
 
 A video of Sona Jobarteh performing at the 2012 Africa Festival in Würzburg, Germany.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Videos
+title: Music
 eventpromo: false
 ---
 
@@ -8,7 +8,7 @@ eventpromo: false
 <div class="site-content" >
     <div class="container" >
       {% for post in site.posts %}
-        {% if post.video_id %}
+        {% if post.tags contains 'Music' %}
           {% include post_summary.html %}
         {% endif %}
       {% endfor %}

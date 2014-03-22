@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Sénamé Agbodjinou talks about Archicamps, fablabs, and the african smart city"
+title:  "Sénamé Agbodjinou: Archicamps, fablabs, and the african smart city idea"
 date:   2014-02-19
-tags: [Tech democracy, Hacking, Fablab, Archicamps, Smart city, Lift]
+tags: [Tech democracy, Hacking, Fablab, Archicamps, Smart city, Innovation, Lift, Talk]
 countries: [Togo]
 video_id: 3noZfHvwGTs
 contributor: kamon
 show_on_home: true
+recommended: true
 ---
 
 A talk (in french) at Lift in Marseille by Sénamé Agbodjinou of [L'Africaine d'Architecture](http://www.lafricainedarchitecture.com)
