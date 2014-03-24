@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Talks
+title: Inspiring ideas and projects 
 eventpromo: false
 ---
-
-
+              
 <div class="site-content" >
     <div class="container" >
       {% for post in site.posts %}
-        {% if post.tags contains 'Talk' %}
+        {% if post.tags contains 'Talk' or post.tags contains 'Ideas' %}
           {% include post_summary.html %}
         {% endif %}
       {% endfor %}

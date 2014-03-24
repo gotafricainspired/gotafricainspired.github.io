@@ -6,7 +6,6 @@ tags: [Hip Hop, Ice Prince Zamani, Soundcity TV]
 countries: [Nigeria]
 video_id: RsV-pESKHEE
 contributor: kamon
-show_on_home: true
 ---
 
 This video gives us an opportunity to know more about Ice Prince, one of Africa's leading hip hop artists. 

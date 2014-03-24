@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Innovation
+title: Technology
 eventpromo: false
 ---
 
@@ -8,7 +8,8 @@ eventpromo: false
 <div class="site-content" >
     <div class="container" >
       {% for post in site.posts %}
-        {% if post.tags contains 'Innovation' %}
+        {% assign tags = post.tags %}
+        {% if tags contains 'Tech' or tags contains 'Tech democracy' or tags contains 'Hacking' or tags contains 'Open Source' %}
           {% include post_summary.html %}
         {% endif %}
       {% endfor %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sisi Eko Remix by Darey ft. Flavour"
+title:  "Darey - Sisi Eko Remix ft. Flavour"
 date:   2014-01-31
 tags: [Music, AfroPop, Darey, Flavour]
 countries: [Nigeria]
