@@ -12,7 +12,7 @@ contributor: kamon
 
 A video clip of [Paco Sery](http://www.nytimes.com/2000/07/12/style/12iht-PACO.2.t.html) performing and living on <em>Chabada danse</em>. 
 
-A gift by the musician from Côte d'Ivoire, most known as the famous drummer of the francophone 
+A gift by the musician from Côte d'Ivoire, most known as the drummer of the french 
 jazz fusion band [Sixun](https://www.youtube.com/watch?v=lnSMDmtOx4s) and for 
 his collaboration with [Joe Zawinul](http://www.zawinulmusic.com/).
 
