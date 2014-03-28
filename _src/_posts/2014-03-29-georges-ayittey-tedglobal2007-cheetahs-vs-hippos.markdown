@@ -5,6 +5,7 @@ date:   2014-03-29
 tags: [TED, Talk, George Ayittey, Ngozi Okonjo-Iweala, Cheetahs]
 countries: [Ghana, Nigeria]
 video_id: ZnepHUYFqgg
+video_teasing: "Rediscover this inspiring TED talk by economist Georges Ayittey back in 2007: Africa's cheetahs versus hippos."
 contributor: kamon
 recommended: true
 ---
