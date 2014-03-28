@@ -5,7 +5,6 @@ date:   2014-03-26
 tags: [Music, Jazz Fusion, Drums, Paco Sery, Sixun, Joe Zawinul]
 countries: ["Côte d'Ivoire",]
 video_id: 1vmxRUN12c0
-contributor: kamon
 video_teasing: "Enjoy this video clip from the drummer Paco Sery performing and living: Chabada danse."
 contributor: kamon
 ---
