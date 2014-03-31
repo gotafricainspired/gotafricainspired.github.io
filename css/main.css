@@ -480,6 +480,12 @@ p.entry-description {
     margin-right: 0.60em;
 }
 
+.footnote p {
+    border-top: 1px solid #cccccc;
+    font-size: 0.85em;
+    color: #cccccc;
+}
+
 .page-button {
     padding-top: 2em; margin-bottom: -2.5em; 
     font-size: 0.85em;
