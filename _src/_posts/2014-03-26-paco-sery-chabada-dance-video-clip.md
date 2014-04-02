@@ -8,7 +8,7 @@ video_id: 1vmxRUN12c0
 video_teasing: "Enjoy this video clip from the drummer Paco Sery performing and living: Chabada danse."
 contributor: kamon
 footnote1: "Youtube video of Sixun's 20th anniversary concert, at La Cigale in Paris. 
-If you are in a hurry, you might want to jump to 39:05 to see the energic part."
+If in a hurry, you might want to jump to 39:05 to see the energic part."
 ---
 
 A video clip of [Paco Sery](http://www.nytimes.com/2000/07/12/style/12iht-PACO.2.t.html) performing <em>and living</em> on <em>Chabada danse</em>. 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Sénamé Agbodjinou: Archicamps, fablabs, and the african smart city idea"
 date:   2014-02-19
-tags: [Tech democracy, Open Source, Fablab, Archicamps, Smart city, Innovation, Lift, Talk]
+tags: [Tech democracy, Open Source, Fablab, Archicamps, Smart city, Community project, 'Lift talk']
 countries: [Togo]
 video_id: 3noZfHvwGTs
 contributor: kamon

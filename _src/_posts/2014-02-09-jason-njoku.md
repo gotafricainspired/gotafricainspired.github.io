@@ -2,7 +2,7 @@
 layout: post
 title:  "Jason Njoku: Failing all the way to Success"
 date:   2014-02-09
-tags: [Entrepreneurship, Internet, Iroko Partners, TED, Talk]
+tags: [Entrepreneurship, Internet, Iroko Partners, 'TED talk']
 countries: [Nigeria]
 video_id: F8WmQIFpjqc
 contributor: kamon

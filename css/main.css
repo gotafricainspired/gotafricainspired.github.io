@@ -376,9 +376,57 @@ p {
     background: #F6F6F6;
 }
 
+/* Globalnav */
+
+.globalnav {
+    background: #333333; 
+    padding: 10px 0px;
+
+    /*padding-top: 0.5em;*/
+    height: auto;
+    border-bottom: 3px solid #000;
+}    
+
+.fixed-globalnav {
+    display: none;
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    top: 0px;
+    background: #333333;
+    z-index: 10000;
+    box-shadow: 2px 0px 5px rgba(0,0,0,0.5);
+}
+/*.fixed-globalnav .subheading { display: none; }*/
+.fixed-globalnav .container { width: 100%; margin: auto; }
+/*.fixed-globalnav h1.title { font-size: 24px; margin: 0; float: left; }*/
+/*.fixed-globalnav ul.nav { margin: 0; padding: 5px; float: right;}*/
+/*.fixed-globalnav ul.nav li { margin: 0; margin-left: 10px;}*/
+
+.nav {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 0;
+    margin: 0 0 0 1.5em;
+    vertical-align: top;
+}
+
+.nav li:first-child {
+    margin-left: 0;
+}
+
+/* Site header */
+
 .site-header {
     background: #ffffff !important; 
-    padding-top: 0.5em;
+    padding: 10px 0px;
+
+    /*padding-top: 0.5em;*/
     height: auto;
     border-bottom: 3px solid #000;
 }    
@@ -398,6 +446,7 @@ p {
     font-family: "proxima-nova","Helvetica Neue",Helvetica,arial,sans-serif;
     color: #333333; 
 }
+
 
 .site-footer {
     background: #000; 
@@ -683,12 +732,11 @@ textarea[contenteditable] {
    Theses examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
-
+/*
 @media only screen and (min-width: 800px) {
-    /* Style adjustments for viewports that meet the condition */
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min-resolution: 144dpi) {
-    /* Style adjustments for viewports that meet the condition */
 }
+*/

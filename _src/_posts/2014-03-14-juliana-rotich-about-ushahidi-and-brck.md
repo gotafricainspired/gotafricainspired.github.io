@@ -2,7 +2,7 @@
 layout: post
 title:  "Juliana Rotich: The Ushahidi project and the BRCK"
 date:   2014-03-14
-tags: [Tech democracy, Open Source, Internet, Innovation, TED, Talk]
+tags: [Tech democracy, Open Source, Internet, Community project, TED talk]
 countries: [Kenya]
 video_id: qsJYrwzfd6w
 contributor: kamon

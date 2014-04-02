@@ -2,7 +2,7 @@
 layout: post
 title:  "Women celebrate overcoming poverty through an art project in Ghana"
 date:   2014-02-11
-tags: [Social enterprise, Internet, G-lish]
+tags: [Social enterprise, 'Art work', G-lish, Community project]
 countries: [Ghana]
 contributor: kamon
 ---

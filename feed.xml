@@ -11,8 +11,8 @@
     <title xml:lang="en">Got Africa-Inspired!</title>
     <atom:link type="application/atom+xml" href="http://gotafricainspired.com/feed/" rel="self"/>
     <link>http://gotafricainspired.com</link>
-    <pubDate>Sat, 29 Mar 2014 14:07:04 +0100</pubDate>
-    <lastBuildDate>Sat, 29 Mar 2014 14:07:04 +0100</lastBuildDate>
+    <pubDate>Wed, 02 Apr 2014 21:22:13 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Apr 2014 21:22:13 +0200</lastBuildDate>
     <language>en-US</language>
     <description>Discover awesome African stories and creations. You too, get inspired!</description>
     
@@ -21,8 +21,7 @@
         <link>http://gotafricainspired.com/2014/03/29/georges-ayittey-tedglobal2007-cheetahs-vs-hippos.html</link>
         <pubDate>Sat, 29 Mar 2014 </pubDate>
         <dc:creator></dc:creator>
-        <category>TED</category>
-        <category>Talk</category>
+        <category>TED talk</category>
         <category>George Ayittey</category>
         <category>Ngozi Okonjo-Iweala</category>
         <category>Cheetahs</category>
@@ -50,13 +49,13 @@ understand the changes in action in Africa. Today, I enjoyed listening to them a
         <category>Sixun</category>
         <category>Joe Zawinul</category>
         <guid isPermaLink="false">/2014/03/26/paco-sery-chabada-dance-video-clip</guid>
-        <description><![CDATA[ <p>A video clip of <a href="http://www.nytimes.com/2000/07/12/style/12iht-PACO.2.t.html">Paco Sery</a> performing and living on <em>Chabada danse</em>. </p>
+        <description><![CDATA[ <p>A video clip of <a href="http://www.nytimes.com/2000/07/12/style/12iht-PACO.2.t.html">Paco Sery</a> performing <em>and living</em> on <em>Chabada danse</em>. </p>
 
 <p>A gift by the musician from Côte d&#39;Ivoire, most known as the drummer of the french 
-jazz fusion band <a href="https://www.youtube.com/watch?v=lnSMDmtOx4s">Sixun</a> and for 
-his collaboration with <a href="http://www.zawinulmusic.com/">Joe Zawinul</a>.</p>
+jazz fusion band <a href="https://www.youtube.com/watch?v=lnSMDmtOx4s">Sixun</a> (<sup><a href="#footnote1" id="fn1" title="see footnote">1</a></sup>) and for 
+his collaboration with <a href="http://www.joezawinul.com/">Joe Zawinul</a>.</p>
 
-<p>Music is love. Enjoy and dance!</p>
+<p>Music is love. Enjoy and share!</p>
  ]]></description>
     </item>
     
@@ -81,9 +80,8 @@ his collaboration with <a href="http://www.zawinulmusic.com/">Joe Zawinul</a>.</
         <category>Tech democracy</category>
         <category>Open Source</category>
         <category>Internet</category>
-        <category>Innovation</category>
-        <category>TED</category>
-        <category>Talk</category>
+        <category>Community project</category>
+        <category>TED talk</category>
         <guid isPermaLink="false">/2014/03/14/juliana-rotich-about-ushahidi-and-brck</guid>
         <description><![CDATA[ <p>Juliana Rotich, cofounder of <a href="http://ushahidi.com">Ushahidi</a>, 
 talks at TED about the BRCK network solution they developed in Kenya, 
@@ -121,9 +119,8 @@ improving connectivity for developing countries.</p>
         <category>Fablab</category>
         <category>Archicamps</category>
         <category>Smart city</category>
-        <category>Innovation</category>
-        <category>Lift</category>
-        <category>Talk</category>
+        <category>Community project</category>
+        <category>Lift talk</category>
         <guid isPermaLink="false">/2014/02/19/sename-agbodjinou-about-archicamps-fablabs-woelab</guid>
         <description><![CDATA[ <p>A talk (in french) at Lift in Marseille by Sénamé Agbodjinou of <a href="http://www.lafricainedarchitecture.com">L&#39;Africaine d&#39;Architecture</a>
 and <a href="http://www.woelabo.com">WoeLab</a>. He presents what they have been doing in Togo with the Archicamps idea,
@@ -150,8 +147,9 @@ Fablabs, and the dream of an african smart city. </p>
         <pubDate>Tue, 11 Feb 2014 </pubDate>
         <dc:creator></dc:creator>
         <category>Social enterprise</category>
-        <category>Internet</category>
+        <category>Art work</category>
         <category>G-lish</category>
+        <category>Community project</category>
         <guid isPermaLink="false">/2014/02/11/g-lish-foundation-art-exhibition</guid>
         <description><![CDATA[ <p><a href="http://g-lishfoundation.myshopify.com">G-lish Foundation</a> announces the &quot;Finfinhi: Little by Little&quot; exhibition, 
 including over 50 stunning, unique, recycled, textile art works, on display this month in Sydney.</p>
@@ -176,8 +174,7 @@ An exhibition of this stunning work is on display now in Sydney at Pine Street C
         <category>Entrepreneurship</category>
         <category>Internet</category>
         <category>Iroko Partners</category>
-        <category>TED</category>
-        <category>Talk</category>
+        <category>TED talk</category>
         <guid isPermaLink="false">/2014/02/09/jason-njoku</guid>
         <description><![CDATA[ <p>Jason Njoku is a Nigerian Internet entrepreneur, and is CEO and founder of Iroko Partners, the creators of IrokoTV.com.
 In this talk at TEDxEuston 2011, he gives his view on <em>Success</em>, based on his own story and the failures 
@@ -214,6 +211,7 @@ And let&#39;s keep learning from the likes of Jason Njoku, inspirations for the 
         <category>Open Source</category>
         <category>Fablab</category>
         <category>3D printer</category>
+        <category>Community project</category>
         <guid isPermaLink="false">/2014/02/04/tech-democracy-fablabs-wafate</guid>
         <description><![CDATA[ <p>A presentation of <a href="http://www.woelabo.com/wafate.html">W.Afate</a>, the first 3D printer created 
 in Africa by a team lead by Afate Gnikou, in the fablab <a href="http://www.woelabo.com">WoeLab</a> in Togo.</p>

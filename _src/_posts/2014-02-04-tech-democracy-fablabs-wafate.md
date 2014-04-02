@@ -2,7 +2,7 @@
 layout: post
 title:  "Tech democracy, fablabs and the first 3D printer created in Africa"
 date:   2014-02-04
-tags: [Tech democracy, Open Source, Fablab, 3D printer]
+tags: [Tech democracy, Open Source, Fablab, 3D printer, Community project]
 countries: [Togo]
 video_id: -ngFLs2RV1I
 contributor: kamon

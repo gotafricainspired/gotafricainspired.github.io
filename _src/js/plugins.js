@@ -42,3 +42,25 @@
 //          $.adaptiveBackground.run(defaults);
 //
 //}());
+
+
+(function(){
+
+  $(window).on('scroll', function(){
+    if($(window).scrollTop() > 166) {
+        $('.fixed-globalnav').show();
+    } else {
+        $('.fixed-globalnav').hide();
+    }
+  });
+
+//  $('ul.nav a').on('click', function(event){
+//    event.preventDefault();
+//    var targetID = $(this).attr('href');
+//    var targetST = $(targetID).offset().top - 48;
+//    $('body').animate({
+//      scrollTop: targetST + 'px'
+//    }, 300);
+//  });
+
+}());
