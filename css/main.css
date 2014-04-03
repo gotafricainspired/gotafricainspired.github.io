@@ -387,6 +387,11 @@ p {
     border-bottom: 3px solid #000;
 }    
 
+
+.shortlist a {
+    color: #ffe094;
+}    
+
 .fixed-globalnav {
     display: none;
     position: fixed;

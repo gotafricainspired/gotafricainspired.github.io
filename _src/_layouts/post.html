@@ -11,14 +11,12 @@ layout: default
              <!-- <p class="entry-title" >
                  {{ page.title }}
               </p> -->
+              
+              {% include video.html %}
 
               <p class="entry-description" >
                  {{ content }}
               </p>
-
-              <br>
-              
-              {% include video.html %}
 
               {% if page.audio_id %}  
                 {% assign audio_id = page.audio_id %}
