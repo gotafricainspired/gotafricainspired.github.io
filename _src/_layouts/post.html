@@ -5,6 +5,8 @@ layout: default
 <div class="post">
         <div class="site-content" >
         <div class="container" >
+        
+            <h2>{{ page.title }}</h2>
 
             <article class="entry" >
 
@@ -25,6 +27,12 @@ layout: default
               
               {% assign post = page %}
               {% include tags.html %}
+              
+              <ul class="entry-details" >
+                <li class="fa fa-user" > 
+                  Shared by: {{ page.contributor }}
+                </li>
+              </ul>
 
               {% if page.footnote1 %} 
               <h4 style="color: #cccccc" >Footnotes:</h4>

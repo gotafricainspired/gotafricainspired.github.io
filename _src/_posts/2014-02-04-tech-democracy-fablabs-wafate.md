@@ -5,7 +5,7 @@ date:   2014-02-04
 tags: [Tech democracy, Open Source, Fablab, 3D printer, Community project]
 countries: [Togo]
 video_id: -ngFLs2RV1I
-contributor: kamon
+contributor: Latif Ayeva
 ---
 
 A presentation of [W.Afate](http://www.woelabo.com/wafate.html), the first 3D printer created 

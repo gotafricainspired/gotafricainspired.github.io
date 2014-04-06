@@ -358,6 +358,14 @@ p {
 }
 
 
+#gai-events-section {  
+    background-color: #f4f4f7 /*#cbe3ba*/;
+}
+
+#gai-shortlist-section {  
+    background-color: #fff9ec /*#cbe3ba*/;
+}
+
 /*font-size: 1.2em; margin-top: -0.6em*/
 
 .branding-color {
@@ -379,12 +387,12 @@ p {
 /* Globalnav */
 
 .globalnav {
-    background: #333333; 
-    padding: 10px 0px;
+    background: #9A2720 /*#333333*/; 
+    /*padding: 10px 0px;*/
 
     /*padding-top: 0.5em;*/
     height: auto;
-    border-bottom: 3px solid #000;
+    border-bottom: 3px solid #9A2720;
 }    
 
 
@@ -398,7 +406,7 @@ p {
     width: 100%;
     padding: 10px;
     top: 0px;
-    background: #333333;
+    background: #9A2720;
     z-index: 10000;
     box-shadow: 2px 0px 5px rgba(0,0,0,0.5);
 }
@@ -412,6 +420,8 @@ p {
     padding: 0;
     margin: 0;
     list-style: none;
+    
+    font-size: 1.18rem;
 }
 
 .nav li {
@@ -438,15 +448,15 @@ p {
 
 .site-header h1 {
     margin: 0 0 0.15em;
-    font-size: 1.4em;
-    line-height: 1.5em;
+    font-size: 1.4rem;
+    line-height: 1.5rem;
     color: #333333; 
     font-family: "proxima-nova","Helvetica Neue",Helvetica,arial,sans-serif;
     font-weight: normal;
 }
 
 .site-header p {
-    margin: 0 0 0.20em;
+    margin: 0 0 0.20rem;
     font-size: 1em;
     font-family: "proxima-nova","Helvetica Neue",Helvetica,arial,sans-serif;
     color: #333333; 
@@ -521,7 +531,7 @@ p.entry-description {
     list-style: none;
     display: block;
     color: #444444;
-    font-size: 0.98em;
+    font-size: 0.88em;
     margin-left: 0px;
     margin-top: 0px;
     padding-left: 0px;
@@ -531,12 +541,12 @@ p.entry-description {
 
 .entry-details li {
     display: inline;
-    margin-right: 0.60em;
+    margin-right: 0.60rem;
 }
 
 .footnote p {
     border-top: 1px solid #cccccc;
-    font-size: 0.85em;
+    font-size: 0.85rem;
     color: #cccccc;
 }
 

@@ -7,6 +7,9 @@ eventpromo: false
 
 <div class="site-content" >
     <div class="container" >
+    
+      <h2>{{ page.title }}</h2>
+
       {% for post in site.posts %}
         {% assign tags = post.tags %}
         {% if tags contains 'Community project' %}

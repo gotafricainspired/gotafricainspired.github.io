@@ -1,0 +1,29 @@
+---
+layout: default
+title: Events on your journey to join the army of the creators.
+---
+
+
+<div class="site-content" id="gai-events-section" >
+    <div class="container" >
+    
+      <h2>{{ page.title }}</h2>
+
+      {% for event in site.data.events %}
+          <article class="entry" >
+              <h3 class="entry-title" >
+                   {{ event.title }}
+              </h3>
+
+              <p>{{ event.description }}</p>
+              
+              <ul>
+                <li>When: {{ event.dates }}, {{ event.time }}</li>
+                <li>Where: {{ event.venue }}</li>
+                <li>More info: <a href="{{ event.url }}" >{{ event.url }}</a></li>
+              </ul>
+          </article>
+      {% endfor %}
+      
+    </div>
+</div>

@@ -7,6 +7,9 @@ eventpromo: false
 
 <div class="site-content" >
     <div class="container" >
+    
+      <h2>{{ page.title }}</h2>
+
       {% for post in site.posts %}
         {% assign tags = post.tags %}
         {% if tags contains 'Tech' or tags contains 'Tech democracy' or tags contains 'Hacking' or tags contains 'Open Source' %}

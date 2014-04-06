@@ -6,6 +6,9 @@ eventpromo: false
               
 <div class="site-content" >
     <div class="container" >
+    
+      <h2>{{ page.title }}</h2>
+
       {% for post in site.posts %}
         {% if post.tags contains 'TED talk' or post.tags contains 'Lift talk' or post.tags contains 'Ideas' %}
           {% include post_summary.html %}
