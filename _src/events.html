@@ -18,9 +18,12 @@ title: Events on your journey to join the army of the creators.
               <p>{{ event.description }}</p>
               
               <ul>
-                <li>When: {{ event.dates }}, {{ event.time }}</li>
+                <li>When: {{ event.dates }} </li>
                 <li>Where: {{ event.venue }}</li>
-                <li>More info: <a href="{{ event.url }}" >{{ event.url }}</a></li>
+                <li>Website: <a href="{{ event.url }}" >{{ event.url }}</a></li>
+                
+                <!-- <li>Email: {{ event.email }}</li> -->
+                
               </ul>
           </article>
       {% endfor %}
