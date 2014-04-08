@@ -366,6 +366,10 @@ p {
     background-color: #fff9ec /*#cbe3ba*/;
 }
 
+#gai-shops-section {  
+    background-color: #fff9ec /*#cbe3ba*/;
+}
+
 /*font-size: 1.2em; margin-top: -0.6em*/
 
 .branding-color {
@@ -433,6 +437,10 @@ p {
 
 .nav li:first-child {
     margin-left: 0;
+}
+
+.nav li a {
+    color: #9A2720;
 }
 
 /* Site header */
