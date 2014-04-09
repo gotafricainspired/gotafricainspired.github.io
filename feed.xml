@@ -11,10 +11,31 @@
     <title xml:lang="en">Got Africa-Inspired!</title>
     <atom:link type="application/atom+xml" href="http://gotafricainspired.com/feed/" rel="self"/>
     <link>http://gotafricainspired.com</link>
-    <pubDate>Tue, 08 Apr 2014 20:33:14 +0200</pubDate>
-    <lastBuildDate>Tue, 08 Apr 2014 20:33:14 +0200</lastBuildDate>
+    <pubDate>Wed, 09 Apr 2014 22:18:49 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Apr 2014 22:18:49 +0200</lastBuildDate>
     <language>en-US</language>
     <description>Discover awesome African stories and creations. You too, get inspired!</description>
+    
+    <item>
+        <title>Africa Straight Up</title>
+        <link>http://gotafricainspired.com/2014/04/09/africa-straight-up-documentary-film.html</link>
+        <pubDate>Wed, 09 Apr 2014 </pubDate>
+        <dc:creator></dc:creator>
+        <category>Africa.com</category>
+        <category>Stories</category>
+        <category>Education</category>
+        <category>Business</category>
+        <category>Communities</category>
+        <category>Leadership</category>
+        <category>Ideas</category>
+        <category>TED</category>
+        <guid isPermaLink="false">/2014/04/09/africa-straight-up-documentary-film</guid>
+        <description><![CDATA[ <p><em>Africa Straight Up</em> documentary film: Beyond the single story, the stereotypes, and the Africa 
+that needs the help of others.</p>
+
+<p>To all my friends, african or not: Watch this film!</p>
+ ]]></description>
+    </item>
     
     <item>
         <title>Jesse Jagz - High-Life ft. Rexx</title>
@@ -36,10 +57,11 @@
         <link>http://gotafricainspired.com/2014/03/29/georges-ayittey-tedglobal2007-cheetahs-vs-hippos.html</link>
         <pubDate>Sat, 29 Mar 2014 </pubDate>
         <dc:creator></dc:creator>
-        <category>TED talk</category>
+        <category>African economy</category>
         <category>George Ayittey</category>
         <category>Ngozi Okonjo-Iweala</category>
         <category>Cheetahs</category>
+        <category>TED</category>
         <guid isPermaLink="false">/2014/03/29/georges-ayittey-tedglobal2007-cheetahs-vs-hippos</guid>
         <description><![CDATA[ <p>About 6 years ago, I came across the video of <a href="https://www.ted.com/talks/george_ayittey_on_cheetahs_vs_hippos">this talk</a> 
 by Ghanaian economist Georges Ayittey at TEDGlobal 2007 (Africa: The Next Chapter). </p>
@@ -98,7 +120,7 @@ If in a hurry, you might want to jump to 39:05 to see the energic part.</p>
         <category>Open Source</category>
         <category>Internet</category>
         <category>Community project</category>
-        <category>TED talk</category>
+        <category>TED</category>
         <guid isPermaLink="false">/2014/03/14/juliana-rotich-about-ushahidi-and-brck</guid>
         <description><![CDATA[ <p>Juliana Rotich, cofounder of <a href="http://ushahidi.com">Ushahidi</a>, 
 talks at TED about the BRCK network solution they developed in Kenya, 
@@ -137,7 +159,7 @@ improving connectivity for developing countries.</p>
         <category>Archicamps</category>
         <category>Smart city</category>
         <category>Community project</category>
-        <category>Lift talk</category>
+        <category>Lift</category>
         <guid isPermaLink="false">/2014/02/19/sename-agbodjinou-about-archicamps-fablabs-woelab</guid>
         <description><![CDATA[ <p>A talk (in french) at Lift in Marseille by Sénamé Agbodjinou of <a href="http://www.lafricainedarchitecture.com">L&#39;Africaine d&#39;Architecture</a>
 and <a href="http://www.woelabo.com">WoeLab</a>. He presents what they have been doing in Togo with the Archicamps idea,
@@ -191,7 +213,7 @@ An exhibition of this stunning work is on display now in Sydney at Pine Street C
         <category>Entrepreneurship</category>
         <category>Internet</category>
         <category>Iroko Partners</category>
-        <category>TED talk</category>
+        <category>TED</category>
         <guid isPermaLink="false">/2014/02/09/jason-njoku</guid>
         <description><![CDATA[ <p>Jason Njoku is a Nigerian Internet entrepreneur, and is CEO and founder of Iroko Partners, the creators of IrokoTV.com.
 In this talk at TEDxEuston 2011, he gives his view on <em>Success</em>, based on his own story and the failures 
