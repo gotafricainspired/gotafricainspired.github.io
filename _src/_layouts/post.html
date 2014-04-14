@@ -30,7 +30,7 @@ layout: default
               
               <ul class="entry-details" >
                 <li class="fa fa-user" > 
-                  Shared by: {{ page.contributor }}
+                  Shared by: {% if page.contributor == 'kamon' %}Kamon Ayeva{% else %}{{ page.contributor }}{% endif %}
                 </li>
               </ul>
               

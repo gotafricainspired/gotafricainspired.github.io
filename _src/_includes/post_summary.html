@@ -15,7 +15,7 @@
               
               <ul class="entry-details" style="margin-bottom: 0px" >
                 <li class="fa fa-user" > 
-                  Shared by: {{ post.contributor }}
+                  Shared by: {% if post.contributor == 'kamon' %}Kamon Ayeva{% else %}{{ post.contributor }}{% endif %}
                 </li>
               </ul>
 
