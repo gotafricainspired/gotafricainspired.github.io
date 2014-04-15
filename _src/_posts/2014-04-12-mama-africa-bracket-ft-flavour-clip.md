@@ -5,7 +5,7 @@ date:   2014-04-12
 tags: [Music, AfroPop, Bracket, Flavour]
 countries: [Nigeria,]
 video_id: paDINb3Rksw
-video_teasing: Bracket does it again with <em>Mama Africa</em>, a song for parties, celebrating happiness, and a well-done video.
+video_teasing: "A new hit by Bracket, <em>Mama Africa</em>, a song for parties and celebrating happiness. Enjoy the awesome video!"
 contributor: kamon
 ---
 
