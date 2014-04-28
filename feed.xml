@@ -11,10 +11,24 @@
     <title xml:lang="en">Got Africa-Inspired!</title>
     <atom:link type="application/atom+xml" href="http://gotafricainspired.com/feed/" rel="self"/>
     <link>http://gotafricainspired.com</link>
-    <pubDate>Tue, 15 Apr 2014 22:25:25 +0200</pubDate>
-    <lastBuildDate>Tue, 15 Apr 2014 22:25:25 +0200</lastBuildDate>
+    <pubDate>Mon, 28 Apr 2014 20:56:15 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Apr 2014 20:56:15 +0200</lastBuildDate>
     <language>en-US</language>
     <description>Discover awesome African stories and creations. You too, get inspired!</description>
+    
+    <item>
+        <title>Oritse Femi - Better Remix ft. Vector</title>
+        <link>http://gotafricainspired.com/2014/04/28/oritsefemi-better-remix-ft-vector.html</link>
+        <pubDate>Mon, 28 Apr 2014 </pubDate>
+        <dc:creator></dc:creator>
+        <category>Music</category>
+        <category>Hip Hop</category>
+        <category>AfroBeat</category>
+        <category>Oritse Femi</category>
+        <category>Vector</category>
+        <guid isPermaLink="false">/2014/04/28/oritsefemi-better-remix-ft-vector</guid>
+        <description><![CDATA[  ]]></description>
+    </item>
     
     <item>
         <title>The TED talk video you owe yourself to watch</title>
@@ -30,7 +44,7 @@
         <guid isPermaLink="false">/2014/04/14/ted-talk-chimamanda-adichie</guid>
         <description><![CDATA[ <p>The danger of a single story, a TED talk by Chimamanda Adichie.</p>
 
-<p>Briliant! More than that... Useful! For everyone&#39;s challenges in understanding others and himself, 
+<p>Brilliant! More than that... Useful! For everyone&#39;s challenges in understanding others and himself, 
 and truly connecting to the world.</p>
  ]]></description>
     </item>
@@ -301,7 +315,7 @@ in Africa by a team lead by Afate Gnikou, in the fablab <a href="http://www.woel
         <pubDate>Mon, 03 Feb 2014 </pubDate>
         <dc:creator></dc:creator>
         <category>Music</category>
-        <category>Rap</category>
+        <category>Hip Hop</category>
         <category>Kofi Kinaata</category>
         <category>Kesse</category>
         <guid isPermaLink="false">/2014/02/03/kofi-kinaata-different-ft-kesse</guid>

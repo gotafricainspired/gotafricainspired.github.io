@@ -12,5 +12,5 @@ recommended: true
 
 The danger of a single story, a TED talk by Chimamanda Adichie.
 
-Briliant! More than that... Useful! For everyone's challenges in understanding others and himself, 
+Brilliant! More than that... Useful! For everyone's challenges in understanding others and himself, 
 and truly connecting to the world.
