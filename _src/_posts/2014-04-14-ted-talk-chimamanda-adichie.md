@@ -5,7 +5,7 @@ date:   2014-04-14
 tags: [Chimamanda Adichie, Stories, Education, Diversity, Ideas, TED]
 countries: [Nigeria,]
 video_id: D9Ihs241zeg
-video_teasing: "The TED talk video you owe yourself to watch: The danger of a single story, by Chimamanda Adichie."
+video_teasing: "<em>The danger of a single story</em>, by Chimamanda Adichie. <br>A recommended TED talk video."
 contributor: Francis Addai
 recommended: true
 ---
