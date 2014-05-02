@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Chale Wote Art Festival 2013"
+title:  "Chale Wote Street Art Festival 2013"
 date:   2014-04-30
 tags: [Culture, Festival, Street art, "Accra [dot] Alt", Communities]
 countries: [Ghana,]
 video_id: Qxcm-rfDdSQ#t=12
-video_teasing: <em>Accra [dot] Alt</em> presents Chale Wote Art Festival 2013.
+video_teasing: <em>Accra [dot] Alt</em> presents Chale Wote Street Art Festival.
 contributor: Kamon Ayeva
 recommended: true
 ---
 
-Chale Wote is a street art festival organised in Accra, Ghana, by [Accra [dot] Alt](http://accradotalttours.wordpress.com/about-us/), 
+<em>Chale Wote</em> is a street art festival organised in Accra, Ghana, by [Accra [dot] Alt](http://accradotalttours.wordpress.com/about-us/), 
 with support from other cultural networks.
 
 This is the video of the 2013 edition.

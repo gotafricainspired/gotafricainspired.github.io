@@ -2,7 +2,7 @@
 layout: post
 title:  "Sona Jobarteh at Africa Festival"
 date:   2014-03-03
-tags: [Music, Manding, Kora, Sona Jobarteh]
+tags: [Music, Manding, Kora, Sona Jobarteh, Festival]
 countries: [Gambia, UK]
 video_id: 55mF8sJ2pW4
 video_teasing: "Sona Jobarteh performing at the 2012 Africa Festival in Würzburg."
