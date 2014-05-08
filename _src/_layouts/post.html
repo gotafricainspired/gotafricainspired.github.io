@@ -24,15 +24,15 @@ layout: default
                 {% assign audio_id = page.audio_id %}
                 {% include audio.html %}
               {% endif %}
+          
+              <ul class="entry-details" >
+                <li class="fa fa-user" > 
+                  Posted by: {% if page.contributor == 'kamon' %}Kamon Ayeva{% else %}{{ page.contributor }}{% endif %}
+                </li>
+              </ul>
               
               {% assign post = page %}
               {% include tags.html %}
-              
-              <ul class="entry-details" >
-                <li class="fa fa-user" > 
-                  Shared by: {% if page.contributor == 'kamon' %}Kamon Ayeva{% else %}{{ page.contributor }}{% endif %}
-                </li>
-              </ul>
               
             </article>
             
