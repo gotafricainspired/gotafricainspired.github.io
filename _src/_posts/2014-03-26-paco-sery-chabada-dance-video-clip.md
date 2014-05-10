@@ -7,6 +7,11 @@ countries: ["Côte d'Ivoire",]
 video_id: 1vmxRUN12c0
 video_teasing: "Enjoy this video clip from the drummer Paco Sery performing and living: Chabada danse."
 contributor: kamon
+links: 
+  - title: "World Music Drummer Hits His Stride: Paco Sery, in His Own Time"
+    url: http://www.nytimes.com/2000/07/12/style/12iht-PACO.2.t.html
+  - title: "Sixun's 20th anniversary concert, at La Cigale in Paris"
+    url: https://www.youtube.com/watch?v=lnSMDmtOx4s
 ---
 
 A video clip of [Paco Sery](http://www.nytimes.com/2000/07/12/style/12iht-PACO.2.t.html) performing <em>and living</em> on <em>Chabada danse</em>. 

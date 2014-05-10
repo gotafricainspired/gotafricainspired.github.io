@@ -184,16 +184,50 @@ a:visited {
 
 .site-footer {
     padding: 2em 0;
+    padding-left: 3rem; /* need to fix side effect of this on mobile ? */
     font-size: 0.875em;
+    background: #333333;
 }
 
 .site-footer .container {
     max-width: 500px;
 }
 
-.site-footer a {
-    color: #e08524;
+.site-footer .column {
+  text-align: left;
+  padding-left: 2.4rem;
+  padding-right: 2.4rem;
 }
+
+.site-footer p {
+    color: #999 !important;
+    text-align: justify;
+}
+
+.site-footer p#copyright {
+    color: #999 !important;
+    text-align: center;
+}
+
+.site-footer a, .site-footer span {
+    color: #ccc !important;
+    /*text-decoration: underline;*/
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
+
+h4 {
+    color: #999999; margin-bottom: 0.6rem;
+}
+
+h4.site-footer-tagline {
+    text-align: justify; margin-bottom: 0.6rem;
+}
+
+
+
 
 
 /* Typography

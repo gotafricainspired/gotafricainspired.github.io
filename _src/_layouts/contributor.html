@@ -8,18 +8,16 @@ layout: default
     
               <h2>{{ page.title }}</h2>
 
-              <div style="margin-bottom: 2rem" >{{ page.contributor_level}}</div>
+              {% if page.contributor_level != null %}
+                <div style="margin-bottom: 2rem" >{{ page.contributor_level}}</div>
+              {% endif %}
               
               <ul>
                 {% for post in site.posts %}
                   {% if post.contributor == page.title or post.contributor == page.contributor_id %}
-
-                   <li style="text-align: left" >
-                      <a href="{{ post.url }}">
-                        {{ post.title }}
-                      </a>
-                   </li>
-
+                    {% unless post.tags contains 'Meta' %}
+                      {% include post_summary.html %}
+                    {% endunless %}
                   {% endif %}
                 {% endfor %}
               </ul>

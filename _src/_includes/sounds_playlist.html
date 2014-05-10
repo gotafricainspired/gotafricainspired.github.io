@@ -1,0 +1,14 @@
+
+{% for sound in site.data.sounds %}
+  {% assign audio_id = sound.soundcloud_id %}
+  
+     <article class="audio" >            
+         <h4>
+            {{ sound.title }}
+         </h4>
+
+         {% include audio.html %}     
+     </article>
+  
+{% endfor %}
+

@@ -5,11 +5,6 @@
               </h3>
 
               {{ post.excerpt }}
-              
-              {% if post.audio_id %}  
-                {% assign audio_id = post.audio_id %}
-                {% include audio.html %}
-              {% endif %}
 
               {% include tags.html %}
               
