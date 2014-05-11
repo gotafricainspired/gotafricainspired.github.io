@@ -5,7 +5,6 @@ date:   2014-04-30
 tags: [Culture, Festival, Street art, "Accra [dot] Alt", Communities]
 countries: [Ghana,]
 video_id: Qxcm-rfDdSQ#t=12
-video_teasing: <em>Accra [dot] Alt</em> presents Chale Wote Street Art Festival.
 contributor: Kamon Ayeva
 recommended: true
 links: 

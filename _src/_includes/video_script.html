@@ -1,4 +1,10 @@
-{% if page.video_id %}
+{% if page.title == 'Home' %}
+  {% assign video_id = site.showcased_video_id %}
+{% elsif page.video_id != null %}
+  {% assign video_id = page.video_id %}
+{% endif %}
+
+{% if video_id %}
 <script>
 
 // Dynamically inserting the Youtube video iframe
@@ -9,7 +15,7 @@
 
     var configs = {
         //youTubeVideoId: 'HtU2vttOdyM'
-        youTubeVideoId: '{{ page.video_id }}'
+        youTubeVideoId: '{{ video_id }}'
     };
 
     // YouTube Player API Reference for iframe Embeds:

@@ -7,8 +7,9 @@ countries: [All]
 contributor: Kamon Ayeva
 ---
 
-I almost forgot adding the About page. Now its done! So what is all this about?
+I almost forgot adding the About page. Now it is done! 
 
+So what is all this about?
 
 The main purpose of this site is to document and share the awesomeness out there in Africa and within its diaspora,
 in the mindset, productions, and creations of the people.

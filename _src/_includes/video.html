@@ -1,5 +1,5 @@
-              {% if page.video_id %}  
+{% if page.video_id != null or video_id != null %}
                 <div class="flex-embed"  >
                   <div id="js-youtube-player"></div>
-                </div>                
-              {% endif %}
+                </div>           
+{% endif %}

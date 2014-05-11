@@ -1,21 +1,19 @@
 ---
 layout: default
 title: Home
-eventpromo: true
-video_id: Qxcm-rfDdSQ#t=12
-video_teasing: "<em>Accra [dot] Alt</em> presents <em>Chale Wote</em> Street Art Festival."
+eventpromo: false
 ---
+
+{% assign video_id = site.showcased_video_id %}
 
 <div class="site-content" id="gai-hero-unit" style="padding-top: 4em" >
     <div class="container" >
         <article class="entry" id="highlight" >
-        
-                {% include video.html %}
-                
+                {% include video.html %}              
+            
                 <p class="entry-title" >
-                    {{ page.video_teasing }}
-                </p>
-
+                    {{ site.showcased_video_teaser }}
+                </p>            
         </article>
     </div>
 </div>
@@ -25,7 +23,7 @@ video_teasing: "<em>Accra [dot] Alt</em> presents <em>Chale Wote</em> Street Art
     <div class="container" >
       {% for post in site.posts limit:6 %}
          <!-- Skip the video that is already highlighted on the homepage --> 
-         {% unless post.video_id == page.video_id %}
+         {% unless post.video_id == video_id %}
             {% include post_summary.html %}
          {% endunless %}
          
