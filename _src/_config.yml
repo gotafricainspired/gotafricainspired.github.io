@@ -1,10 +1,24 @@
 name: Got Africa-Inspired
 slogan: Collections of awesome African stories and creations 
+
 markdown: redcarpet
-pygments: false
+highlighter: false
 relative_permalinks: false
+
+gems:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gems
+  
 google_analytics_id: UA-20582361-3
 feedburner_id: GotAfricaInspired
-showcased_video_id: 1vmxRUN12c0
-showcased_video_teaser: "The Afro-Jazz / Fusion drummer from Côte d'Ivoire, Paco Sery, performing and living on <em>Chabada danse</em>."
+showcased_video_id: Qxcm-rfDdSQ#t=12
+showcased_video_teaser: "<em>Accra [dot] Alt</em> presents <em>Chale Wote</em> Street Art Festival."
+
 
