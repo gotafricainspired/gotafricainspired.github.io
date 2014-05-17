@@ -2,7 +2,7 @@
 layout: post
 title:  "The inspiring story of Tonyi Senayah"
 date:   2014-05-17
-tags: [Entrepreneurship,]
+tags: [Ideas, Entrepreneurship, Manufacture, Artisanship, Shoes, Startup]
 countries: [Ghana,]
 video_id: ACGYUQLrUls
 contributor: Kamon Ayeva
