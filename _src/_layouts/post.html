@@ -38,7 +38,7 @@ layout: default
                     {% assign link_icon_class = 'fa-youtube' %}
                   {% endif %}
                 
-                  <li class="fa {{ link_icon_class }}" > 
+                  <li class="fa {{ link_icon_class }}" style="display: block" > 
                     <a href="{{ link.url }}" >{{ link.title }}</a>
                   </li>
                 {% endfor %}

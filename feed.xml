@@ -11,10 +11,26 @@
     <title xml:lang="en">Got Africa-Inspired!</title>
     <atom:link type="application/atom+xml" href="http://gotafricainspired.com/feed/" rel="self"/>
     <link>http://gotafricainspired.com</link>
-    <pubDate>Fri, 16 May 2014 12:23:12 +0200</pubDate>
-    <lastBuildDate>Fri, 16 May 2014 12:23:12 +0200</lastBuildDate>
+    <pubDate>Sat, 17 May 2014 16:19:54 +0200</pubDate>
+    <lastBuildDate>Sat, 17 May 2014 16:19:54 +0200</lastBuildDate>
     <language>en-US</language>
     <description>Discover awesome African stories and creations. You too, get inspired!</description>
+    
+    <item>
+        <title>The inspiring story of Tonyi Senayah</title>
+        <link>http://gotafricainspired.com/2014/05/17/the-inspiring-story-of-tonyi-senayah.html</link>
+        <pubDate>Sat, 17 May 2014 </pubDate>
+        <dc:creator></dc:creator>
+        <category>Entrepreneurship</category>
+        <guid isPermaLink="false">/2014/05/17/the-inspiring-story-of-tonyi-senayah</guid>
+        <description><![CDATA[ <p>Meet Tonyi Senayah, the ambituous Ghanaian entrepreneur who has created <a href="http://horsemanshoes.com">Horseman Shoes</a>, designing and
+making shoes in Ghana. </p>
+
+<p>An inspiration for all young entrepreneurs.</p>
+
+<p>In this video, he is interviewed on <a href="http://www.thebeboldshow.com/">the BE BOLD Talk Show</a>.</p>
+ ]]></description>
+    </item>
     
     <item>
         <title>Here comes the missing About page</title>
