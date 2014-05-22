@@ -120,6 +120,22 @@ a:visited {
    ========================================================================== */
 
 /**
+ * Colors
+ */
+
+/* our special orange, part of the logo */
+.orange {
+    color: #ff6600 !important;
+}
+
+
+/* our special yellow, part of the logo */
+.yellow {
+    color: #fff9af !important;
+}
+
+
+/**
  * Site header
  */
 
@@ -139,31 +155,6 @@ a:visited {
     text-decoration: none;
     text-transform: uppercase;
     text-shadow: 2px 2px 0 #000;
-}
-*/
-
-/* Site nav */
-
-/*
-
-.site-nav {
-    float: right;
-    padding: 0;
-    margin: 7px 0 0;
-    list-style: none;
-}
-
-.site-nav a {
-    display: block;
-    color: #e08524;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-.site-nav a:hover,
-.site-nav a:focus,
-.site-nav a:active {
-    color: #fff;
 }
 */
 
@@ -334,20 +325,18 @@ p {
 
 #gai-logo { 
   font-size: 1.8em; padding-bottom: 8px; margin-bottom: 0px;
-  color: #9A2720;  
+  color: #9A2720;   
+}
 
+#gai-logo img { 
+  display: inline; 
 }
 
 #gai-hero-unit {  
     background-color: #fff9ec /*#cbe3ba*/;
-  /*
-  background-image: url('http://gotafricainspired.com/img/hero-unit-bg.jpg'), -moz-linear-gradient(top,  #cbe3ba,  #a6cc8b);
-  background-image: url('http://gotafricainspired.com/img/hero-unit-bg.jpg'), -webkit-gradient(linear, left top, left bottom, from(#cbe3ba), to(#a6cc8b));
-
-  background-position: center center;
-  */
 }
 
+/*
 .gai-promotion-box {
     border-top: 2px #ffe094 dotted; 
     border-bottom: 2px #ffe094 dotted; 
@@ -394,7 +383,7 @@ p {
     color: #ffe094;
     font-weight: normal;
 }
-
+*/
 
 #gai-events-section {  
     background-color: #f4f4f7 /*#cbe3ba*/;
@@ -410,13 +399,15 @@ p {
 
 /*font-size: 1.2em; margin-top: -0.6em*/
 
+/*
 .branding-color {
-    color: #9A2720 /*D3741C*/;
+    color: #9A2720;
 }
 
 .alt-branding-color {
     color: #ffe094;
 }
+*/
 
 .bg-white {
     background: #ffffff;
