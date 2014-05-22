@@ -178,6 +178,10 @@ a:visited {
     background: #fff;
 }
 
+.site-content p {
+    text-align: justify;
+}
+
 /**
  * Site footer
  */
