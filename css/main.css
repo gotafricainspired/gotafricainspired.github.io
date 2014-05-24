@@ -213,12 +213,15 @@ a:visited {
     text-decoration: underline;
 }
 
-h4 {
+/*
+.site-footer h4 {
     color: #999999; margin-bottom: 0.6rem;
-}
+}*/
 
-h4.site-footer-tagline {
-    text-align: justify; margin-bottom: 0.6rem;
+.site-footer h4.site-footer-tagline {
+    text-align: justify; 
+    margin-bottom: 1.2rem;
+    font-weight: normal;
 }
 
 

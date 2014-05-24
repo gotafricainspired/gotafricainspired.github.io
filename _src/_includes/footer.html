@@ -4,39 +4,67 @@
 <div class="row clearfix" >
 
     <div class="column half" >
-      <h4 class="site-footer-tagline orange" >We've got <em>Africa-inspired</em> and we're sharing it!</h4>
+      <h4 class="site-footer-tagline yellow" >We've got <em>Africa-inspired</em> and we're sharing it!</h4>
       
       <p>
-       <em class="orange" >Got Africa-Inspired</em> features selected videos and stories showcasing 
+       <em class="yellow" >Got Africa-Inspired</em> features selected videos and stories showcasing 
        the awesomeness out there in Africa, being built by the people. To inspire your day!
               
        <br><br>
-       We welcome contributions. <a href="{{ site.url }}/contribute.html" >Join our effort!</a>
+       We welcome contributions. <a href="{{ site.url }}/contribute.html" >Join our team</a> or support us.
       </p>
 
+      <p>
+
+            <a href="http://feeds.feedburner.com/{{ site.feedburner_id }}" >Subscribe to the RSS feed</a> 
+            -
+            <a href="https://twitter.com/GAInspired">Follow us via twitter</a>
+
+            <!--
+            <h4 class="yellow" style="font-style: italic" >Subscribe</h4>
+        
+            <a href="http://feeds.feedburner.com/{{ site.feedburner_id }}" >Via the RSS feed</a> <br>
+            <a href="http://feedburner.google.com/fb/a/mailverify?uri=GotAfricaInspired">Via email</a><br>
+            
+            -->
+      </p>
+            
+            
     </div>
 
 
     <div class="column half" >
 
       <div class="row clearfix" >
-        <div class="column half" style="padding-left: 0; padding-right: 0;" >
-            <h4 class="yellow" >Site links</h4>
+        <div class="column third" style="padding-left: 0; padding-right: 0;" >
+            <h4 class="yellow" style="font-style: italic" >Find your way</h4>
         
             <a href="{{ site.url }}/about.html" >About us</a> <br>
             <a href="{{ site.url }}/faq.html" >FAQ</a> <br>
-            <a href="{{ site.url }}/videos.html" >All videos</a> <br>
-            <a href="{{ site.url }}/archives.html" >Archives</a> <br>
-
-            <h4 class="yellow" style="font-style: italic" >Subscribe</h4>
         
-            <a href="http://feeds.feedburner.com/{{ site.feedburner_id }}" >Via the RSS feed</a> <br>
-            <a href="http://feedburner.google.com/fb/a/mailverify?uri=GotAfricaInspired">Via email</a><br>
-            <!-- <a href="https://twitter.com/GAInspired">Via twitter</a> <br> -->
+            <a href="{{ site.url }}/ideas.html" >Ideas</a><br>
+            <a href="{{ site.url }}/music" >Music</a><br>  
+            <a href="{{ site.url }}/festivals.html" >Festivals</a><br> 
+            <a href="{{ site.url }}/tech.html" >Technology</a><br>
+            <a href="{{ site.url }}/community.html" >Communities</a><br>
 
+            <a href="{{ site.url }}/archives.html" >Archives</a> <br>
+        </div>
+
+        <div class="column third" style="padding-left: 0; padding-right: 0;" >
+            <h4 class="yellow" style="font-style: italic" >Play sounds</h4>
+
+            {% for playlist in site.data.playlists %}
+              <a href="{{ site.url }}/music/{{ playlist.id }}.html" >{{ playlist.title }}</a> <br>
+            {% endfor %}
+            
+            <h4 class="yellow" style="font-style: italic" >Play videos</h4>
+            
+            <a href="{{ site.url }}/videos/ted.html" >TED talks</a> <br>
+            <a href="{{ site.url }}/videos" >All videos</a> <br>
         </div>
         
-        <div class="column half" style="padding-left: 0; padding-right: 0;" >
+        <div class="column third" style="padding-left: 0; padding-right: 0;" >
             <h4 class="yellow" >Contributors</h4>
 
             <a href="{{ site.url }}/team/kamon-ayeva.html" >Kamon Ayeva</a> <br>

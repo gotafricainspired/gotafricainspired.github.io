@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+
+<div class="site-content" id="gai-shops-section" >
+    <div class="container" >
+    
+              <h2>Music playlist: {{ page.title }}</h2>
+
+              {% for playlist in site.data.playlists %}
+                {% if playlist.id == page.playlist_id %}
+                  {% for track in playlist.tracks %}
+                    <article class="audio" >            
+                        <h4>{{ track.title }}</h4>
+                        
+                        {% assign audio_id = track.id %}
+                        {% include audio.html %}
+                    </article>
+                  {% endfor %}
+                {% endif %}
+              {% endfor %}
+                    
+    </div>
+</div>

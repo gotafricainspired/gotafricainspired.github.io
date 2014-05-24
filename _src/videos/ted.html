@@ -1,0 +1,20 @@
+---
+layout: default
+title: TED talks that inspire us
+eventpromo: false
+---
+
+
+<div class="site-content" >
+    <div class="container" >
+    
+      <h2>{{ page.title }}</h2>
+
+      {% for post in site.posts %}
+        {% if post.video_id and post.tags contains 'TED' %}
+          {% include post_summary.html %}
+        {% endif %}
+      {% endfor %}
+      
+    </div>
+</div>

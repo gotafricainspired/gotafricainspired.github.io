@@ -1,0 +1,26 @@
+- title: Afrobeat
+  id: afrobeat
+  tracks:
+    - title: Sarkodie - Adonai (Remix) ft. Castro
+      id: "140709098"
+    - title: Ice Prince - Kpako ft. M.I & Jesse Jagz
+      id: "117738941"
+    - title: BOJ - Wifey ft. Dammy Krane
+      id: 133437073
+    - title: Jesse Jagz - High-Life ft. Rexx
+      id: 141856652
+    - title: Banky W - Jasi
+      id: 121387715
+    - title: Iyanya - Le Kwa Ukwu
+      id: 113874776
+
+- title: Kizomba
+  id: kizomba
+  tracks:
+    - title: Don Kikas - Amor de Ninguem ft. Pérola 
+      id: 54049210
+    - title: Lee Lauren - Me Toca
+      id: 148853205
+    - title: Lee Lauren - Avelina ft. Celma Ribas 
+      id: 148832487
+      
