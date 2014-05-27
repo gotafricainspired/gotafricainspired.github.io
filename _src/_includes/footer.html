@@ -11,7 +11,7 @@
        the awesomeness out there in Africa, being built by the people. To inspire your day!
               
        <br><br>
-       We welcome contributions. <a href="{{ site.url }}/contribute.html" >Join our team</a> or support us.
+       We welcome contributions. <a href="{{ site.url }}/contribute.html" >Join our team</a>.
       </p>
 
       <p>
@@ -49,19 +49,24 @@
             <a href="{{ site.url }}/community.html" >Communities</a><br>
 
             <a href="{{ site.url }}/archives.html" >Archives</a> <br>
+            <a href="{{ site.url }}/videos" >All videos</a> <br>
         </div>
 
         <div class="column third" style="padding-left: 0; padding-right: 0;" >
             <h4 class="yellow" style="font-style: italic" >Play sounds</h4>
 
             {% for playlist in site.data.playlists %}
-              <a href="{{ site.url }}/music/{{ playlist.id }}.html" >{{ playlist.title }}</a> <br>
+              {% if playlist.published == true %}
+                <a href="{{ site.url }}/music/playlists/{{ playlist.id }}.html" >{{ playlist.title }}</a> <br>
+              {% endif %}
             {% endfor %}
             
+            <!--
             <h4 class="yellow" style="font-style: italic" >Play videos</h4>
             
             <a href="{{ site.url }}/videos/ted.html" >TED talks</a> <br>
             <a href="{{ site.url }}/videos" >All videos</a> <br>
+            -->
         </div>
         
         <div class="column third" style="padding-left: 0; padding-right: 0;" >
@@ -70,7 +75,12 @@
             <a href="{{ site.url }}/team/kamon-ayeva.html" >Kamon Ayeva</a> <br>
             <a href="{{ site.url }}/team/latif-ayeva.html" >Latif Ayeva</a> <br>
             <a href="{{ site.url }}/team/francis-addai.html" >Francis Addai</a> <br>
-            <a href="{{ site.url }}/team/hayford-adu.html" >Hayford Kwadwo Adu</a> <br>
+            <a href="{{ site.url }}/team/hayford-adu.html" >Hayford Adu</a> <br>
+            
+            <h4 class="yellow" style="font-style: italic" >Support us</h4>
+            
+            <script data-gittip-username="GAInspired"
+        src="//gttp.co/v1.js"></script>
         </div>
         
       </div> <!-- end row -->

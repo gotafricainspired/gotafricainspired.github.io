@@ -1,12 +1,12 @@
 - title: Kamon Ayeva
   profile_id: kamon
-  description: Initial idea, site development, and content curation.
+  description: Site development. Content curation. Music suggestions.
   twitter: kamon
   github: kamon
   gittip: kamon
 
 - title: Latif Ayeva
-  description: Contributor.
+  description: Contributor. Music suggestions.
   profile_id: latif
   
 - title: Francis Addai
@@ -14,5 +14,5 @@
   profile_id: faddai
   
 - title: Hayford Kwadwo Adu
-  description: Logo design.
+  description: Logo design work.
   profile_id: hayfordadu

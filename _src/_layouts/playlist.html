@@ -6,20 +6,10 @@ layout: default
 <div class="site-content" id="gai-shops-section" >
     <div class="container" >
     
-              <h2>Music playlist: {{ page.title }}</h2>
+<h2>Music playlist: {{ page.title }}</h2>
+<br>
 
-              {% for playlist in site.data.playlists %}
-                {% if playlist.id == page.playlist_id %}
-                  {% for track in playlist.tracks %}
-                    <article class="audio" >            
-                        <h4>{{ track.title }}</h4>
-                        
-                        {% assign audio_id = track.id %}
-                        {% include audio.html %}
-                    </article>
-                  {% endfor %}
-                {% endif %}
-              {% endfor %}
-                    
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{ page.soundcloud_id }}&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+      
     </div>
 </div>

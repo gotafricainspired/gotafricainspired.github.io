@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>/2014/05/27/regina-agyare-on-cnn-africa-startup.html</loc>
+    <lastmod>2014-05-27T00:00:00+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>/2014/05/17/the-inspiring-story-of-tonyi-senayah.html</loc>
     <lastmod>2014-05-17T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
@@ -107,133 +113,175 @@
   
   <url>
     <loc>/about.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/archives.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/community.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/contribute.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/faq.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/festivals.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/how-we-manage-the-site.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/ideas.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>/music/afrobeat.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
     <loc>/music/</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>/music/kizomba.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <loc>/music/playlists/afro-funk.html</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/music/playlists/afro-house.html</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/music/playlists/afrobeat.html</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/music/playlists/congo.html</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/music/playlists/</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/music/playlists/jazz.html</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/music/playlists/kizomba.html</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/music/playlists/reggae.html</loc>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/team/francis-addai.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/team/hayford-adu.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/team/kamon-ayeva.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/team/latif-ayeva.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/tech.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/videos/</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/videos/ted.html</loc>
-    <lastmod>2014-05-24T12:16:56+02:00</lastmod>
+    <lastmod>2014-05-27T21:59:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

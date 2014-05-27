@@ -173,6 +173,24 @@ a:visited {
     text-align: justify;
 }
 
+
+.site-content-large {
+    overflow: hidden;
+    padding: 1em 0 5em;
+    color: #333;
+    background: #fff;
+}
+
+.site-content-large p {
+    text-align: justify;
+}
+
+.site-content-large .container {
+    max-width: 90%;
+}
+
+
+
 /**
  * Site footer
  */
@@ -338,55 +356,6 @@ p {
 #gai-hero-unit {  
     background-color: #fff9ec /*#cbe3ba*/;
 }
-
-/*
-.gai-promotion-box {
-    border-top: 2px #ffe094 dotted; 
-    border-bottom: 2px #ffe094 dotted; 
-    border-left: 2px #ffe094 dotted; 
-    border-right: 2px #ffe094 dotted;
-}
-
-.gai-promotion-box-header {
-    margin: -20px 0 0 1em;
-    font-weight: normal;
-    background: #cccccc;
-    width: 8.6em;
-    color: #ffe094;
-    
-    border-top: 2px #ffe094 dotted; 
-    border-bottom: 2px #ffe094 dotted; 
-    border-left: 2px #ffe094 dotted; 
-    border-right: 2px #ffe094 dotted;
-    
-}
-
-.gai-promotion-box-text {
-    color: #fff9ec;
-    
-    margin-bottom: 0;
-    margin-top: 0.8em;
-    margin-left: 1.2em;
-    font-size: 1.2em; 
-    text-align: center;
-}
-
-.gai-promotion-box-link {
-    color: #ffe094;
-    
-    margin-bottom: 0;
-    margin-top: 0.8em;
-    margin-left: 1.2em;
-    font-size: 1.2em; 
-    text-align: center;
-
-}
-
-.gai-promotion-box-link a {
-    color: #ffe094;
-    font-weight: normal;
-}
-*/
 
 #gai-events-section {  
     background-color: #f4f4f7 /*#cbe3ba*/;
@@ -603,16 +572,20 @@ p.entry-description {
 }
 
 
-/*img {
-    width: 100%; // dimensions are mandatory
-    height: 35em; // dimensions are mandatory
 
-    object-fit: cover;
-    overflow: hidden; // Cuts off the parts of the image poking out 
-}*/
-/* Polyfill for Object-fit property in CSS3 Images (detecting browsers that do not support the property):
-   Later add https://github.com/anselmh/object-fit CSS and JS script...
-*/
+.circle {
+  border: 3px solid #999999;
+}
+
+.circle a {
+  color: #9A2720;
+}
+
+.circle a:hover {
+  color: #ff6600; /* Our special orange color */
+}
+
+
 
 /**
  * Flexible multi-media embeds

@@ -11,10 +11,29 @@
     <title xml:lang="en">Got Africa-Inspired!</title>
     <atom:link type="application/atom+xml" href="http://gotafricainspired.com/feed/" rel="self"/>
     <link>http://gotafricainspired.com</link>
-    <pubDate>Sat, 24 May 2014 12:16:56 +0200</pubDate>
-    <lastBuildDate>Sat, 24 May 2014 12:16:56 +0200</lastBuildDate>
+    <pubDate>Tue, 27 May 2014 21:59:12 +0200</pubDate>
+    <lastBuildDate>Tue, 27 May 2014 21:59:12 +0200</lastBuildDate>
     <language>en-US</language>
     <description>Discover awesome African stories and creations. You too, get inspired!</description>
+    
+    <item>
+        <title>Regina Agyare on CNN Africa Startup</title>
+        <link>http://gotafricainspired.com/2014/05/27/regina-agyare-on-cnn-africa-startup.html</link>
+        <pubDate>Tue, 27 May 2014 </pubDate>
+        <dc:creator></dc:creator>
+        <category>Ideas</category>
+        <category>Entrepreneurship</category>
+        <category>Tech Needs Girls</category>
+        <category>Tech democracy</category>
+        <category>Community project</category>
+        <category>Startup</category>
+        <category>CNN Africa Startup</category>
+        <guid isPermaLink="false">/2014/05/27/regina-agyare-on-cnn-africa-startup</guid>
+        <description><![CDATA[ <p>Regina Agyare and her team are breaking grounds with the project <em>Tech Needs Girls</em>. </p>
+
+<p>They teach girls how to code and they&#39;ve had amazing results since they started.</p>
+ ]]></description>
+    </item>
     
     <item>
         <title>The inspiring story of Tonyi Senayah</title>

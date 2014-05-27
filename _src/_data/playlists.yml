@@ -1,26 +1,42 @@
 - title: Afrobeat
   id: afrobeat
-  tracks:
-    - title: Sarkodie - Adonai (Remix) ft. Castro
-      id: "140709098"
-    - title: Ice Prince - Kpako ft. M.I & Jesse Jagz
-      id: "117738941"
-    - title: BOJ - Wifey ft. Dammy Krane
-      id: 133437073
-    - title: Jesse Jagz - High-Life ft. Rexx
-      id: 141856652
-    - title: Banky W - Jasi
-      id: 121387715
-    - title: Iyanya - Le Kwa Ukwu
-      id: 113874776
-
+  description: The new generation Afrobeat, mostly from Nigeria and Ghana.
+  soundcloud_id: 16113816
+  published: true
+  artists: Sarkodie, Davido, Mafikizolo, BOJ, Jesse Jagz, Banky W, Iyanya, Oritse Femi
+  
+- title: Afro-Funk
+  id: afro-funk
+  description: The pionneers of African Funk in the 70s, mixing western styles with African rythms.
+  soundcloud_id: 36724441
+  published: true
+  artists: Orchestre Poly-Rythmo de Cotonou, Ebo Taylor, Souleyman Faye & Xalam, C.K. Mann, The Funkees, Gyedu Blay-Ambolley
+    
 - title: Kizomba
   id: kizomba
-  tracks:
-    - title: Don Kikas - Amor de Ninguem ft. Pérola 
-      id: 54049210
-    - title: Lee Lauren - Me Toca
-      id: 148853205
-    - title: Lee Lauren - Avelina ft. Celma Ribas 
-      id: 148832487
+  description: Modern music from Angola and Cabo Verde.
+  soundcloud_id: 16113816
+  published: true
+  artists: Don Kikas, Lee Lauren, Nunaus Lc
+
+- title: Afro-House
+  id: afro-house
+  soundcloud_id: 16113816
+  published: false
+
+- title: Reggae
+  id: reggae
+  soundcloud_id: 16113816
+  published: false
       
+- title: Congo
+  id: congo
+  soundcloud_id: 16113816
+  published: false
+      
+
+
+- title: Jazz
+  id: jazz
+  soundcloud_id: 16113816
+  published: false

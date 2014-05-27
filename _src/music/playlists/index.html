@@ -1,0 +1,37 @@
+---
+layout: default
+title: Playlists
+---
+
+
+<div class="site-content-large" >
+    <div class="container" >
+    
+      <h2>{{ page.title }}</h2>
+
+	  <table class="tablesaw tablesaw-stack" data-mode="stack" >
+		<thead>
+			<tr>
+				<th>Playlist</th>
+				<th>Description</th>
+				<th>Featured artists</th>
+			</tr>
+		</thead>
+		<tbody>
+		   {% for playlist in site.data.playlists %}
+		     {% if playlist.published == true %}
+		     <tr>
+				<td> <a href="{{ site.url }}/music/playlists/{{ playlist.id }}.html" >{{ playlist.title }}</a> </td>
+				<td>{{ playlist.description }}</td>
+				<td>{{ playlist.artists }}</td>
+		     </tr>
+		     {% endif %}
+           {% endfor %}
+		</tbody>
+	  </table>
+
+    </div>
+</div>
+
+
+      
