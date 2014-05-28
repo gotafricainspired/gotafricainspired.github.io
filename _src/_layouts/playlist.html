@@ -5,11 +5,23 @@ layout: default
 
 <div class="site-content" id="gai-shops-section" >
     <div class="container" >
-    
-<h2>Music playlist: {{ page.title }}</h2>
-<br>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{ page.soundcloud_id }}&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+       <h2>Music playlist: {{ page.title }}</h2>
+
+       <article class="entry" >
+
+           {% for playlist in site.data.playlists %}
+                {% if playlist.soundcloud_id == page.soundcloud_id %}
+                  <p class="entry-description" style="margin-bottom: 1.6rem; text-align: justify" >
+                     {{ playlist.description }} 
+                     <em>Featuring {{ playlist.artists }}...</em>
+                  </p>
+                {% endif %}
+           {% endfor %}
+    
+           <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{ page.soundcloud_id }}&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
+
+       </article>
       
     </div>
 </div>

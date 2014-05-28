@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Regina Agyare on CNN Africa Startup"
+title:  "Regina Agyare on CNN African Startup"
 date:   2014-05-27
-tags: [Ideas, Entrepreneurship, "Tech Needs Girls", Tech democracy, Community project, Startup, "CNN Africa Startup"]
+tags: [Ideas, Entrepreneurship, "Tech Needs Girls", Tech democracy, Community project, Startup]
 countries: [Ghana,]
 video_id: ua3DRMDrT-g
 contributor: Francis Addai

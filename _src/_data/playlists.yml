@@ -1,7 +1,7 @@
 - title: Afrobeat
   id: afrobeat
-  description: The new generation Afrobeat, mostly from Nigeria and Ghana.
-  soundcloud_id: 16113816
+  description: The new generation Afropop music, mostly from Nigeria and Ghana, remixing influences from all parts of Africa and the World.
+  soundcloud_id: 36730595
   published: true
   artists: Sarkodie, Davido, Mafikizolo, BOJ, Jesse Jagz, Banky W, Iyanya, Oritse Femi
   
@@ -10,14 +10,14 @@
   description: The pionneers of African Funk in the 70s, mixing western styles with African rythms.
   soundcloud_id: 36724441
   published: true
-  artists: Orchestre Poly-Rythmo de Cotonou, Ebo Taylor, Souleyman Faye & Xalam, C.K. Mann, The Funkees, Gyedu Blay-Ambolley
+  artists: Orchestre Poly-Rythmo de Cotonou, Ebo Taylor, C.K. Mann, The Funkees, Gyedu Blay-Ambolley
     
 - title: Kizomba
   id: kizomba
-  description: Modern music from Angola and Cabo Verde.
-  soundcloud_id: 16113816
+  description: Modern music from Angola and Cabo Verde, but not only.
+  soundcloud_id: 36733014
   published: true
-  artists: Don Kikas, Lee Lauren, Nunaus Lc
+  artists: Don Kikas, Lee Lauren, Nunaus Lc, Wizboyy & Teeyah
 
 - title: Afro-House
   id: afro-house
@@ -33,10 +33,10 @@
   id: congo
   soundcloud_id: 16113816
   published: false
-      
-
 
 - title: Jazz
   id: jazz
-  soundcloud_id: 16113816
-  published: false
+  description: A selection of African Jazz classics and jam sessions.
+  soundcloud_id: 36732188
+  published: true
+  artists: Moses Taiwa Molelekwa, Abdullah Ibrahim, Richard Bona, Ablaye Cissoko & Simon Goubert, Chengetai & The South-African Jazz M'bassadors
