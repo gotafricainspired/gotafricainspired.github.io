@@ -1,0 +1,21 @@
+---
+layout: default
+title: Stories of African entrepreneurs.
+eventpromo: false
+---
+
+
+<div class="site-content" >
+    <div class="container" >
+    
+      <h2>{{ page.title }}</h2>
+
+      {% for post in site.posts %}
+        {% assign tags = post.tags %}
+        {% if tags contains 'Entrepreneurship' or tags contains 'Startup' %}
+          {% include post_summary.html %}
+        {% endif %}
+      {% endfor %}
+      
+    </div>
+</div>

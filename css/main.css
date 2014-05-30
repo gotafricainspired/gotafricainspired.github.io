@@ -131,7 +131,7 @@ a:visited {
 
 /* our special yellow, part of the logo */
 .yellow {
-    color: #fff9af !important;
+    color: #fff9af;
 }
 
 
@@ -231,14 +231,13 @@ a:visited {
     text-decoration: underline;
 }
 
-/*
 .site-footer h4 {
-    color: #999999; margin-bottom: 0.6rem;
-}*/
+    margin-bottom: 0.4rem;
+}
 
 .site-footer h4.site-footer-tagline {
     text-align: justify; 
-    margin-bottom: 1.2rem;
+    margin-bottom: 0.4rem;
     font-weight: normal;
 }
 

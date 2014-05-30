@@ -8,27 +8,25 @@
       
       <p>
        <em class="yellow" >Got Africa-Inspired</em> features selected videos and stories showcasing 
-       the awesomeness out there in Africa, being built by the people. To inspire your day!
-              
-       <br><br>
-       We welcome contributions. <a href="{{ site.url }}/contribute.html" >Join our team</a>.
+       the awesomeness out there in Africa, being built by the people. 
+       <em class="yellow" >To inspire your day!</em>
       </p>
+      
+      <p id="site-footer-call-to-action" style="text-align: center; margin-top: 2.8rem" >
+    
+<a href="http://feeds.feedburner.com/{{ site.feedburner_id }}" 
+   class="button button-rounded button-flat-primary" style="background: #FA9B39" >
+    <i class="fa fa-rss"></i> Subscribe via RSS</a>
 
-      <p>
+<a href="https://twitter.com/GAInspired" 
+   class="button button-rounded button-flat-highlight" style="background: #00A0D1" >
+    <i class="fa fa-twitter"></i> Follow us on twitter</a>
 
-            <a href="http://feeds.feedburner.com/{{ site.feedburner_id }}" >Subscribe to the RSS feed</a> 
-            -
-            <a href="https://twitter.com/GAInspired">Follow us via twitter</a>
-
-            <!--
-            <h4 class="yellow" style="font-style: italic" >Subscribe</h4>
-        
-            <a href="http://feeds.feedburner.com/{{ site.feedburner_id }}" >Via the RSS feed</a> <br>
-            <a href="http://feedburner.google.com/fb/a/mailverify?uri=GotAfricaInspired">Via email</a><br>
-            
-            -->
-      </p>
-            
+<a href="{{ site.url }}/contribute.html" 
+   class="button button-rounded button-flat-royal" style="background: #ff6600" >
+    <i class="fa fa-heart"></i> Contribute</a>
+    
+      </p>   
             
     </div>
 
@@ -46,22 +44,25 @@
             <a href="{{ site.url }}/music" >Music</a><br>  
             <a href="{{ site.url }}/festivals.html" >Festivals</a><br> 
             <a href="{{ site.url }}/tech.html" >Technology</a><br>
+            <a href="{{ site.url }}/entrepreneurs.html" >Entrepreneurs</a><br>
             <a href="{{ site.url }}/community.html" >Communities</a><br>
 
-            <a href="{{ site.url }}/videos" >All videos</a> <br>
             <a href="{{ site.url }}/archives.html" >Archives</a> <br>
         </div>
 
         <div class="column third" style="padding-left: 0; padding-right: 0;" >
-            <h4 class="yellow" style="font-style: italic" >The music corner</h4>
+            <h4 class="yellow" style="font-style: italic" >The lounge</h4>
 
+            <a style="color: #fff9af!important" href="{{ site.url }}/music/playlists" >Music playlists</a> <br>
+            
             {% for playlist in site.data.playlists %}
               {% if playlist.published == true %}
                 <a href="{{ site.url }}/music/playlists/{{ playlist.id }}.html" >{{ playlist.title }}</a> <br>
               {% endif %}
             {% endfor %}
             
-            <a style="color: #fff9af!important" href="{{ site.url }}/music/playlists" >All playlists</a>
+            <a style="color: #fff9af!important" href="{{ site.url }}/videos" >Featured videos</a> <br>
+            <a href="{{ site.url }}/videos/ted.html" >TED talks</a> <br>
             
             <!--
             <h4 class="yellow" style="font-style: italic" >Play videos</h4>
@@ -81,8 +82,7 @@
             
             <h4 class="yellow" style="font-style: italic" >Support us</h4>
             
-            <script data-gittip-username="GAInspired"
-        src="//gttp.co/v1.js"></script>
+            <script data-gittip-username="GAInspired" src="//gttp.co/v1.js"></script>
         </div>
         
       </div> <!-- end row -->
