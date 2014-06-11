@@ -7,10 +7,24 @@
   
 - title: Afro-Funk
   id: afro-funk
-  description: The pionneers of African Funk in the 70s, mixing western styles with African rythms.
+  description: Started in the 70s by pionneers mostly from West Africa, mixing western influences with popular rythms such as highlife, this style of music is back. Energy! Refreshing!
   soundcloud_id: 36724441
   published: true
-  artists: Orchestre Poly-Rythmo de Cotonou, Ebo Taylor, C.K. Mann, The Funkees, Gyedu Blay-Ambolley
+  artists: Orchestre Poly-Rythmo de Cotonou, Ebo Taylor, C.K. Mann, Xalam, The Funkees, Gyedu Blay-Ambolley
+
+- title: Reggae
+  id: reggae
+  description: African reggae.
+  soundcloud_id: 37936759
+  artists: Takana Zion
+  published: true
+      
+- title: Congo
+  id: congo
+  soundcloud_id: 37928391
+  description: The Congo playlist including Congolese Rumba and the rare tunes we found.
+  artists: Tabu Ley, Fally Ipupa
+  published: true
     
 - title: Kizomba
   id: kizomba
@@ -21,16 +35,6 @@
 
 - title: Afro-House
   id: afro-house
-  soundcloud_id: 16113816
-  published: false
-
-- title: Reggae
-  id: reggae
-  soundcloud_id: 16113816
-  published: false
-      
-- title: Congo
-  id: congo
   soundcloud_id: 16113816
   published: false
 
