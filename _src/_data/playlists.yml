@@ -14,9 +14,9 @@
 
 - title: Reggae
   id: reggae
-  description: African reggae.
+  description: A selection of reggae songs by, or featuring, african artists.
   soundcloud_id: 37936759
-  artists: Takana Zion
+  artists: Takana Zion, Tiken Jah Fakoli, Yaniss Odua, Rocky Dawuni
   published: true
       
 - title: Congo
@@ -33,6 +33,13 @@
   published: true
   artists: Don Kikas, Lee Lauren, Nunaus Lc, Wizboyy & Teeyah
 
+- title: Afrosoul
+  id: afrosoul
+  description: Soul music songs and live performances from diverse african artists.
+  soundcloud_id: 39686857
+  published: true
+  artists: 
+  
 - title: Afro-House
   id: afro-house
   soundcloud_id: 16113816
