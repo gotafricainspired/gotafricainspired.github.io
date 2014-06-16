@@ -11,10 +11,26 @@
     <title xml:lang="en">Got Africa-Inspired!</title>
     <atom:link type="application/atom+xml" href="http://gotafricainspired.com/feed/" rel="self"/>
     <link>http://gotafricainspired.com</link>
-    <pubDate>Sun, 15 Jun 2014 18:33:25 +0200</pubDate>
-    <lastBuildDate>Sun, 15 Jun 2014 18:33:25 +0200</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2014 21:13:30 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2014 21:13:30 +0200</lastBuildDate>
     <language>en-US</language>
     <description>Discover awesome African stories and creations. You too, get inspired!</description>
+    
+    <item>
+        <title>The story of Herman Chinery-Hesse</title>
+        <link>http://gotafricainspired.com/2014/06/16/the-story-of-herman-chinery-hesse.html</link>
+        <pubDate>Mon, 16 Jun 2014 </pubDate>
+        <dc:creator></dc:creator>
+        <category>Ideas</category>
+        <category>Entrepreneurship</category>
+        <category>Technology</category>
+        <category>Software</category>
+        <category>IT</category>
+        <guid isPermaLink="false">/2014/06/16/the-story-of-herman-chinery-hesse</guid>
+        <description><![CDATA[ <p>Herman Chinery-Hesse is the founder of <a href="http://softtribe.com/">theSOFTtribe</a>, a Ghana-based software solutions company.
+His story featured on CNN African Voices is interesting to understand the challenges, trends and opportunities in Africa&#39;s IT field.</p>
+ ]]></description>
+    </item>
     
     <item>
         <title>Bibi Tanga &amp; The Selenites - Be Africa</title>
