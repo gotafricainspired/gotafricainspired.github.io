@@ -6,6 +6,7 @@ tags: [Music, Funk, Bibi Tanga, The Selenites]
 countries: [Centrafrique, France]
 video_id: csmxsoCkIqM
 contributor: Kamon Ayeva
+showcased_video_teaser: "Bibi Tanga & The Selenites in an impressive video clip for the song <em>Be Africa</em>."
 recommended: true
 links: 
 ---

@@ -10,7 +10,56 @@ layout: default
 
       {% for member in site.data.team %}
            {% if member.profile_id == page.contributor_id %}
-                  <div style="margin-bottom: 2rem" >{{ member.description }}</div>
+    
+	  <table class="tablesaw tablesaw-stack" data-mode="stack" >
+	   
+		<thead>
+			<tr>
+				<th>Contributions</th>
+				{% if member.twitter or member.github or member.blog %}
+				  <th>On the web</th>
+				{% endif %}
+			</tr>
+		</thead>
+
+		<tbody>
+		    <tr style="border-bottom: none" >
+				<td>{{ member.description }}</td>
+
+				{% if member.twitter or member.github or member.blog %}
+				<td> 
+				   <ul style="list-style: none; padding-left: 0" >
+				   
+                     {% if member.twitter %}
+				     <li style="display: inline" >
+				            <a href="https://twitter.com/{{ member.twitter }}" >
+                                <i class="fa fa-twitter" style="color: #00A0D1" ></i>
+                            </a>
+                     </li>
+                     {% endif %}
+                     {% if member.github %}
+				     <li style="display: inline" >
+				            <a href="https://github.com/{{ member.github }}" >
+                                <i class="fa fa-github" style="color: #ccc" ></i>
+                            </a>
+                     </li>
+                     {% endif %}
+                     {% if member.blog %}
+				     <li style="display: inline" >
+				            <a href="{{ member.blog }}" >
+                                <i class="fa fa-link orange" ></i>
+                            </a>
+                     </li>
+                     {% endif %}
+                     
+                   </ul>	
+				</td>
+				{% endif %}
+				
+			</tr>
+		</tbody>
+	  </table>
+
            {% endif %}
       {% endfor %}
 

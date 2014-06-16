@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">        
         
-        <title>Got Africa-Inspired - Francis Addai</title>
+        <title>Got Africa-Inspired - The story of Herman Chinery-Hesse</title>
         <meta name="description" content="">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
@@ -132,171 +132,81 @@
 </header><!-- end site-header -->
 
   
-  <div class="site-content" >
-    <div class="container" >
-    
-      <h2>Francis Addai</h2>
+  <div class="post">
+        <div class="site-content" >
+        <div class="container" >
 
-      
-           
-      
-           
-      
-           
-    
-	  <table class="tablesaw tablesaw-stack" data-mode="stack" >
-	   
-		<thead>
-			<tr>
-				<th>Contributions</th>
-				
-				  <th>On the web</th>
-				
-			</tr>
-		</thead>
+            <h2>The story of Herman Chinery-Hesse</h2>
 
-		<tbody>
-		    <tr style="border-bottom: none" >
-				<td>Insiring stories.</td>
+            <article class="entry" >
 
-				
-				<td> 
-				   <ul style="list-style: none; padding-left: 0" >
-				   
-                     
-				     <li style="display: inline" >
-				            <a href="https://twitter.com/faddai" >
-                                <i class="fa fa-twitter" style="color: #00A0D1" ></i>
-                            </a>
-                     </li>
-                     
-                     
-				     <li style="display: inline" >
-				            <a href="https://github.com/faddai" >
-                                <i class="fa fa-github" style="color: #ccc" ></i>
-                            </a>
-                     </li>
-                     
-                     
-				     <li style="display: inline" >
-				            <a href="http://faddai.com/blog/" >
-                                <i class="fa fa-link orange" ></i>
-                            </a>
-                     </li>
-                     
-                     
-                   </ul>	
-				</td>
-				
-				
-			</tr>
-		</tbody>
-	  </table>
+             <!-- <p class="entry-title" >
+                 The story of Herman Chinery-Hesse
+              </p> -->
 
-           
-      
-           
-      
+              
+                <div class="flex-embed"  >
+                  <div id="js-youtube-player"></div>
+                </div>           
 
-      
 
-      <hr>
-      
-	  <table class="tablesaw tablesaw-stack" data-mode="stack" >
-		<thead>
-			<tr>
-				<th>Post</th>
-				<th style="width: 30%" > Published on</th>
-			</tr>
-		</thead>
 
-		<tbody>
+              <p class="entry-description" >
+                 <p>Herman Chinery-Hesse is the founder of <a href="http://softtribe.com/">theSOFTtribe</a>, a Ghana-based software solutions company.
+His story featured on CNN African Voices is interesting to understand the challenges, trends and opportunities in Africa&#39;s IT field.</p>
 
-        
-          
-             
-		     <tr>
-				<td>
-				    <a href="/2014/06/16/the-story-of-herman-chinery-hesse.html">
-                       The story of Herman Chinery-Hesse
-                    </a>
-				</td>
+              </p>
 
-				<td> 16 Jun 2014 </td>
-		     </tr>
-             
-          
-        
-          
-        
-          
-             
-		     <tr>
-				<td>
-				    <a href="/2014/05/27/regina-agyare-on-cnn-africa-startup.html">
-                       Regina Agyare on CNN African Startup
-                    </a>
-				</td>
+              <ul class="entry-details" >
+                <li class="fa fa-user" > 
+                  Posted by: Francis Addai
+                </li>
+              </ul>
+              
+              
+                            <ul class="entry-details" style="margin-bottom: 0px" >
+                <li class="entry-date fa fa-calendar" > 
+                  16 Jun 2014
+                </li>
+                <!--<li class="entry-tags fa fa-tags" > 
+                  
+                    Ideas,
+                  
+                    Entrepreneurship,
+                  
+                    Technology,
+                  
+                    Software,
+                  
+                    IT
+                  
+                </li> -->
+              </ul>
+              <ul class="entry-details" >
+                <li class="entry-tags fa fa-tags" > 
+                  
+                    Ideas,
+                  
+                    Entrepreneurship,
+                  
+                    Technology,
+                  
+                    Software,
+                  
+                    IT
+                  
+                </li>
+              </ul>
+              
 
-				<td> 27 May 2014 </td>
-		     </tr>
-             
-          
-        
-          
-        
-          
-        
-          
-        
-          
-             
-		     <tr>
-				<td>
-				    <a href="/2014/04/14/ted-talk-chimamanda-adichie.html">
-                       The TED talk video you owe yourself to watch
-                    </a>
-				</td>
+              
+              
+            </article>        
 
-				<td> 14 Apr 2014 </td>
-		     </tr>
-             
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-
-		</tbody>
-	  </table>
-
-      
-      
-    </div>
+        </div>
+        </div>
 </div>
+
 
 
   <!--
@@ -455,7 +365,58 @@
         
 
   
+  
 
+
+
+<script>
+
+// Dynamically inserting the Youtube video iframe
+/* global YT:false */
+(function (document) {
+
+    'use strict';
+
+    var configs = {
+        //youTubeVideoId: 'HtU2vttOdyM'
+        youTubeVideoId: 'FNN8kEhlqVc'
+    };
+
+    // YouTube Player API Reference for iframe Embeds:
+    // https://developers.google.com/youtube/iframe_api_reference
+
+    function loadYouTubePlayer() {
+
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        var tag = document.createElement('script');
+
+        tag.src = 'https://www.youtube.com/iframe_api';
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        // The YouTube API will call this function when the page has finished
+        // downloading the JavaScript for the player API
+        window.onYouTubeIframeAPIReady = function () {
+            // Create the `<iframe>` after the YouTube API code has downloaded
+            /* jshint nonew:false */
+            new YT.Player('js-youtube-player', {
+                videoId: configs.youTubeVideoId,
+                playerVars: {
+                    theme: 'light'
+                }
+            });
+            /* jshint nonew:true */
+        };
+
+    }
+
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    // load widgets asynchronously
+    loadYouTubePlayer();
+
+}(document));
+
+</script>
 
   
 

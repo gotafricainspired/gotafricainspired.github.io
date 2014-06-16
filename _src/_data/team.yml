@@ -1,18 +1,23 @@
 - title: Kamon Ayeva
   profile_id: kamon
-  description: Site development. Content curation. Music suggestions.
+  description: Site development. Content curation. Music playlists.
   twitter: kamon
   github: kamon
   gittip: kamon
+  blog: "http://newafricanlifestyle.com"
 
 - title: Latif Ayeva
-  description: Posts contributions. Music suggestions.
+  description: Insiring stories. Music playlists.
   profile_id: latif
   
 - title: Francis Addai
-  description: Posts contributions.
+  description: Insiring stories.
   profile_id: faddai
+  twitter: faddai
+  github: faddai
+  blog: "http://faddai.com/blog/"
   
 - title: Hayford Kwadwo Adu
   description: Logo design work.
   profile_id: hayfordadu
+  twitter: sir_petal

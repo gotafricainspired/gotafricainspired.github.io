@@ -32,3 +32,6 @@ var/
 
 # OSX
 .DS_Store
+
+# For our Jekyll
+_src/_site
