@@ -2,7 +2,7 @@
 layout: post
 title:  Dr. Lindiwe Majele Sibanda honored by the Yara Prize 2013 
 date:   2014-07-07
-tags: [Entrepreneurship, Agriculture, Poverty reduction, Food, Green revolution, Communities]
+tags: [Entrepreneurship, Agriculture, Food, Green revolution, Yara Prize, Communities]
 countries: [Ghana,]
 video_id: utFYgHhycRQ
 contributor: Latif Ayeva
