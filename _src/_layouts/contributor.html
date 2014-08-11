@@ -17,7 +17,7 @@ layout: default
 			<tr>
 				<th>Contributions</th>
 				{% if member.twitter or member.github or member.blog %}
-				  <th>On the web</th>
+				  <th>Social & Projects</th>
 				{% endif %}
 			</tr>
 		</thead>
@@ -35,6 +35,7 @@ layout: default
 				            <a href="https://twitter.com/{{ member.twitter }}" >
                                 <i class="fa fa-twitter" style="color: #00A0D1" ></i>
                             </a>
+                            &nbsp;&nbsp;
                      </li>
                      {% endif %}
                      {% if member.github %}
@@ -42,6 +43,7 @@ layout: default
 				            <a href="https://github.com/{{ member.github }}" >
                                 <i class="fa fa-github" style="color: #ccc" ></i>
                             </a>
+                            &nbsp;&nbsp;
                      </li>
                      {% endif %}
                      {% if member.blog %}
@@ -49,6 +51,15 @@ layout: default
 				            <a href="{{ member.blog }}" >
                                 <i class="fa fa-link orange" ></i>
                             </a>
+                            &nbsp;&nbsp;
+                     </li>
+                     {% endif %}
+                     {% if member.project %}
+				     <li style="display: inline" >
+				            <a href="{{ member.project }}" >
+                                <i class="fa fa-link orange" ></i>
+                            </a>
+                            &nbsp;&nbsp;
                      </li>
                      {% endif %}
                      
