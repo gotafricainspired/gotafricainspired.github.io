@@ -8,6 +8,8 @@ video_id: utFYgHhycRQ
 contributor: Latif Ayeva
 recommended: true
 links: 
+  - title: "The Yara Prize laureates"
+    url: http://www.yara.com/sustainability/how_we_engage/africa_engagement/yara_prize/2013_laureates.aspx
 ---
 
 Yara International ASA, a Norvegian-based global firm specializing in agricultural and environmental products, 
