@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">        
         
-        <title>Got Africa-Inspired - Our collection of creative and inspiring events happening throughout the year.</title>
+        <title>Got Africa-Inspired - Rwanda's first female pilot: Esther Mbabazi</title>
         <meta name="description" content="">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
@@ -133,25 +133,74 @@
 </header><!-- end site-header -->
 
   
-  <div class="site-content" >
-    <div class="container" >
-    
-      <h2>Our collection of creative and inspiring events happening throughout the year.</h2>
+  <div class="post">
+        <div class="site-content" >
+        <div class="container" >
 
-<div class="row clearfix" >
+            <h2>Rwanda's first female pilot: Esther Mbabazi</h2>
 
-    <div class="column full" >
+            <article class="entry" >
 
-      <script async src="https://static.medium.com/embed.js"></script>
-      <a class="m-collection" data-width="100%" href="https://medium.com/inspiring-african-events">Inspiring African Events</a>
-      
-    </div>
+             <!-- <p class="entry-title" >
+                 Rwanda's first female pilot: Esther Mbabazi
+              </p> -->
 
-</div> 
+              
+                <div class="flex-embed"  >
+                  <div id="js-youtube-player"></div>
+                </div>           
 
-      
-    </div>
+
+
+              <p class="entry-description" >
+                 <p>Meet Esther Mbabazi, Rwanda&#39;s first female pilot. Let&#39;s get inspired.</p>
+
+<p>In this interview from CNN, you&#39;ll have a snapshot on her work, her mindset, and her message to other men and women.</p>
+
+              </p>
+
+              <ul class="entry-details" >
+                <li class="fa fa-user" > 
+                  Posted by: Francis Addai
+                </li>
+              </ul>
+              
+              
+                            <ul class="entry-details" style="margin-bottom: 0px" >
+                <li class="entry-date fa fa-calendar" > 
+                  31 Aug 2014
+                </li>
+                <!--<li class="entry-tags fa fa-tags" > 
+                  
+                    Ideas,
+                  
+                    Rwandair,
+                  
+                    CNN
+                  
+                </li> -->
+              </ul>
+              <ul class="entry-details" >
+                <li class="entry-tags fa fa-tags" > 
+                  
+                    Ideas,
+                  
+                    Rwandair,
+                  
+                    CNN
+                  
+                </li>
+              </ul>
+              
+
+              
+              
+            </article>        
+
+        </div>
+        </div>
 </div>
+
 
 
   <!--
@@ -222,8 +271,6 @@
             <a href="/entrepreneurs.html" >Entrepreneurs</a><br>
             <a href="/community.html" >Communities</a><br>
             
-    <a href="/events" style="color: #fff9af!important" >Events</a> <br>
-     
             <a href="/archives.html" >Archives</a> <br>
             
         </div>
@@ -327,7 +374,58 @@
         
 
   
+  
 
+
+
+<script>
+
+// Dynamically inserting the Youtube video iframe
+/* global YT:false */
+(function (document) {
+
+    'use strict';
+
+    var configs = {
+        //youTubeVideoId: 'HtU2vttOdyM'
+        youTubeVideoId: '83fLue-QrJA'
+    };
+
+    // YouTube Player API Reference for iframe Embeds:
+    // https://developers.google.com/youtube/iframe_api_reference
+
+    function loadYouTubePlayer() {
+
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        var tag = document.createElement('script');
+
+        tag.src = 'https://www.youtube.com/iframe_api';
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        // The YouTube API will call this function when the page has finished
+        // downloading the JavaScript for the player API
+        window.onYouTubeIframeAPIReady = function () {
+            // Create the `<iframe>` after the YouTube API code has downloaded
+            /* jshint nonew:false */
+            new YT.Player('js-youtube-player', {
+                videoId: configs.youTubeVideoId,
+                playerVars: {
+                    theme: 'light'
+                }
+            });
+            /* jshint nonew:true */
+        };
+
+    }
+
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    // load widgets asynchronously
+    loadYouTubePlayer();
+
+}(document));
+
+</script>
 
   
 
