@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rwanda's first female pilot: Esther Mbabazi"
-date:   2014-08-31
+date:   2014-09-20
 tags: [Ideas, Rwandair, CNN]
 video_id: 83fLue-QrJA
 countries: [Rwanda]
